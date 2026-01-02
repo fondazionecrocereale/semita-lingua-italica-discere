@@ -1,0 +1,756 @@
+{
+  "title": "I Numeri da 0 a 10",
+  "content": [
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"cero\" in italiano?",
+      "sound": "",
+      "options": [
+        "Zero",
+        "Uno",
+        "Due",
+        "Tre"
+      ],
+      "correctAnswer": "Zero",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "0 = _____",
+      "sound": "",
+      "options": [
+        "zero",
+        "uno",
+        "due",
+        "tre"
+      ],
+      "correctAnswer": "zero",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"uno\" in italiano?",
+      "sound": "",
+      "options": [
+        "Uno",
+        "Due",
+        "Tre",
+        "Zero"
+      ],
+      "correctAnswer": "Uno",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Uno",
+      "sound": "",
+      "wordOptions": [
+        "Uno",
+        "due",
+        "tre",
+        "zero",
+        "quattro",
+        "cinque"
+      ],
+      "correctAnswer": [
+        "Uno"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "1 = _____",
+      "sound": "",
+      "options": [
+        "uno",
+        "due",
+        "tre",
+        "zero"
+      ],
+      "correctAnswer": "uno",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Quanti sono? 🍊🍊",
+      "sound": "",
+      "options": [
+        "Una mela",
+        "Tre mele",
+        "Due arance",
+        "Quattro uova"
+      ],
+      "correctAnswer": "Due arance",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"dos\" in italiano?",
+      "sound": "",
+      "options": [
+        "Due",
+        "Tre",
+        "Uno",
+        "Quattro"
+      ],
+      "correctAnswer": "Due",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "2 = _____",
+      "sound": "",
+      "options": [
+        "due",
+        "tre",
+        "uno",
+        "quattro"
+      ],
+      "correctAnswer": "due",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Dos",
+      "sound": "",
+      "wordOptions": [
+        "Due",
+        "uno",
+        "tre",
+        "quattro",
+        "zero",
+        "cinque"
+      ],
+      "correctAnswer": [
+        "Due"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"tres\" in italiano?",
+      "sound": "",
+      "options": [
+        "Tre",
+        "Due",
+        "Quattro",
+        "Cinque"
+      ],
+      "correctAnswer": "Tre",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Quanti sono? •••",
+      "sound": "",
+      "options": [
+        "Tre",
+        "Due",
+        "Quattro",
+        "Cinque"
+      ],
+      "correctAnswer": "Tre",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "3 = _____",
+      "sound": "",
+      "options": [
+        "tre",
+        "due",
+        "quattro",
+        "cinque"
+      ],
+      "correctAnswer": "tre",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"cuatro\" in italiano?",
+      "sound": "",
+      "options": [
+        "Quattro",
+        "Tre",
+        "Cinque",
+        "Sei"
+      ],
+      "correctAnswer": "Quattro",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Cuatro",
+      "sound": "",
+      "wordOptions": [
+        "Quattro",
+        "tre",
+        "cinque",
+        "due",
+        "sei",
+        "uno"
+      ],
+      "correctAnswer": [
+        "Quattro"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "4 = _____",
+      "sound": "",
+      "options": [
+        "quattro",
+        "tre",
+        "cinque",
+        "sei"
+      ],
+      "correctAnswer": "quattro",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Quanti sono? •••••",
+      "sound": "",
+      "options": [
+        "Cinque",
+        "Quattro",
+        "Sei",
+        "Tre"
+      ],
+      "correctAnswer": "Cinque",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"cinco\" in italiano?",
+      "sound": "",
+      "options": [
+        "Cinque",
+        "Quattro",
+        "Sei",
+        "Sette"
+      ],
+      "correctAnswer": "Cinque",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "5 = _____",
+      "sound": "",
+      "options": [
+        "cinque",
+        "quattro",
+        "sei",
+        "sette"
+      ],
+      "correctAnswer": "cinque",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Cinco",
+      "sound": "",
+      "wordOptions": [
+        "Cinque",
+        "quattro",
+        "sei",
+        "tre",
+        "sette",
+        "due"
+      ],
+      "correctAnswer": [
+        "Cinque"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "matching_pairs",
+      "question": "Associa il numero con la parola",
+      "sound": "",
+      "options": [
+        {
+          "left": "0",
+          "right": "zero"
+        },
+        {
+          "left": "1",
+          "right": "uno"
+        },
+        {
+          "left": "2",
+          "right": "due"
+        },
+        {
+          "left": "3",
+          "right": "tre"
+        }
+      ],
+      "correctPairs": [
+        {
+          "left": "0",
+          "right": "zero"
+        },
+        {
+          "left": "1",
+          "right": "uno"
+        },
+        {
+          "left": "2",
+          "right": "due"
+        },
+        {
+          "left": "3",
+          "right": "tre"
+        }
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"seis\" in italiano?",
+      "sound": "",
+      "options": [
+        "Sei",
+        "Cinque",
+        "Sette",
+        "Otto"
+      ],
+      "correctAnswer": "Sei",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Quanti sono? ••••••",
+      "sound": "",
+      "options": [
+        "Sei",
+        "Cinque",
+        "Sette",
+        "Quattro"
+      ],
+      "correctAnswer": "Sei",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "6 = _____",
+      "sound": "",
+      "options": [
+        "sei",
+        "cinque",
+        "sette",
+        "otto"
+      ],
+      "correctAnswer": "sei",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"siete\" in italiano?",
+      "sound": "",
+      "options": [
+        "Sette",
+        "Sei",
+        "Otto",
+        "Nove"
+      ],
+      "correctAnswer": "Sette",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Siete",
+      "sound": "",
+      "wordOptions": [
+        "Sette",
+        "sei",
+        "otto",
+        "cinque",
+        "nove",
+        "quattro"
+      ],
+      "correctAnswer": [
+        "Sette"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "7 = _____",
+      "sound": "",
+      "options": [
+        "sette",
+        "sei",
+        "otto",
+        "nove"
+      ],
+      "correctAnswer": "sette",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Quanti sono? ••••••••",
+      "sound": "",
+      "options": [
+        "Otto",
+        "Sette",
+        "Nove",
+        "Sei"
+      ],
+      "correctAnswer": "Otto",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"ocho\" in italiano?",
+      "sound": "",
+      "options": [
+        "Otto",
+        "Sette",
+        "Nove",
+        "Dieci"
+      ],
+      "correctAnswer": "Otto",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "8 = _____",
+      "sound": "",
+      "options": [
+        "otto",
+        "sette",
+        "nove",
+        "dieci"
+      ],
+      "correctAnswer": "otto",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Ocho",
+      "sound": "",
+      "wordOptions": [
+        "Otto",
+        "sette",
+        "nove",
+        "sei",
+        "dieci",
+        "cinque"
+      ],
+      "correctAnswer": [
+        "Otto"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "matching_pairs",
+      "question": "Associa il numero con la parola",
+      "sound": "",
+      "options": [
+        {
+          "left": "4",
+          "right": "quattro"
+        },
+        {
+          "left": "5",
+          "right": "cinque"
+        },
+        {
+          "left": "6",
+          "right": "sei"
+        },
+        {
+          "left": "7",
+          "right": "sette"
+        }
+      ],
+      "correctPairs": [
+        {
+          "left": "4",
+          "right": "quattro"
+        },
+        {
+          "left": "5",
+          "right": "cinque"
+        },
+        {
+          "left": "6",
+          "right": "sei"
+        },
+        {
+          "left": "7",
+          "right": "sette"
+        }
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"nueve\" in italiano?",
+      "sound": "",
+      "options": [
+        "Nove",
+        "Otto",
+        "Dieci",
+        "Sette"
+      ],
+      "correctAnswer": "Nove",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Quanti sono? •••••••••",
+      "sound": "",
+      "options": [
+        "Nove",
+        "Otto",
+        "Dieci",
+        "Sette"
+      ],
+      "correctAnswer": "Nove",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "9 = _____",
+      "sound": "",
+      "options": [
+        "nove",
+        "otto",
+        "dieci",
+        "sette"
+      ],
+      "correctAnswer": "nove",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"diez\" in italiano?",
+      "sound": "",
+      "options": [
+        "Dieci",
+        "Nove",
+        "Otto",
+        "Undici"
+      ],
+      "correctAnswer": "Dieci",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Diez",
+      "sound": "",
+      "wordOptions": [
+        "Dieci",
+        "nove",
+        "otto",
+        "undici",
+        "sette",
+        "sei"
+      ],
+      "correctAnswer": [
+        "Dieci"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "10 = _____",
+      "sound": "",
+      "options": [
+        "dieci",
+        "nove",
+        "otto",
+        "undici"
+      ],
+      "correctAnswer": "dieci",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Quanti sono? ••••••••••",
+      "sound": "",
+      "options": [
+        "Dieci",
+        "Nove",
+        "Otto",
+        "Undici"
+      ],
+      "correctAnswer": "Dieci",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "matching_pairs",
+      "question": "Associa il numero con la parola",
+      "sound": "",
+      "options": [
+        {
+          "left": "8",
+          "right": "otto"
+        },
+        {
+          "left": "9",
+          "right": "nove"
+        },
+        {
+          "left": "10",
+          "right": "dieci"
+        },
+        {
+          "left": "0",
+          "right": "zero"
+        }
+      ],
+      "correctPairs": [
+        {
+          "left": "8",
+          "right": "otto"
+        },
+        {
+          "left": "9",
+          "right": "nove"
+        },
+        {
+          "left": "10",
+          "right": "dieci"
+        },
+        {
+          "left": "0",
+          "right": "zero"
+        }
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Qual è l'ordine corretto?",
+      "sound": "",
+      "options": [
+        "zero, uno, due, tre",
+        "uno, zero, due, tre",
+        "due, uno, zero, tre",
+        "tre, due, uno, zero"
+      ],
+      "correctAnswer": "zero, uno, due, tre",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Tre, quattro, _____, sei",
+      "sound": "",
+      "options": [
+        "cinque",
+        "sette",
+        "otto",
+        "due"
+      ],
+      "correctAnswer": "cinque",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Quale numero manca? Uno, due, ___, quattro",
+      "sound": "",
+      "options": [
+        "Tre",
+        "Cinque",
+        "Zero",
+        "Sei"
+      ],
+      "correctAnswer": "Tre",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Seis, siete, ocho",
+      "sound": "",
+      "wordOptions": [
+        "Sei",
+        "sette",
+        "otto",
+        "cinque",
+        "nove",
+        "quattro"
+      ],
+      "correctAnswer": [
+        "Sei",
+        "sette",
+        "otto"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Otto, _____, dieci",
+      "sound": "",
+      "options": [
+        "nove",
+        "sette",
+        "sei",
+        "undici"
+      ],
+      "correctAnswer": "nove",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Quanti numeri ci sono da 0 a 10?",
+      "sound": "",
+      "options": [
+        "Undici",
+        "Dieci",
+        "Nove",
+        "Dodici"
+      ],
+      "correctAnswer": "Undici",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    }
+  ]
+}
