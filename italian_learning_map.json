@@ -1,0 +1,3479 @@
+{
+  "sections": [
+    {
+      "title": "CORSO D'ITALIANO A1",
+      "backgroundImage": "assets/images/DSCF2316_Dante_perdu.jpg",
+      "baseColor": {
+        "red": 255,
+        "green": 255,
+        "blue": 255
+      },
+      "cardColor": {
+        "red": 255,
+        "green": 255,
+        "blue": 255
+      },
+      "textColor": {
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      "cefr_range": [
+        "A1"
+      ],
+      "totalLessons": 12,
+      "completedLessons": 2,
+      "progressPercentage": 16.7,
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Saluti e Presentazioni",
+          "uid": "italiano_a1_lezione_1",
+          "livello": "A1",
+          "isUnlocked": true,
+          "isCompleted": false,
+          "nextLessonIds": [
+            2
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.1
+          },
+          "description": "Impara a salutare e presentarti in italiano",
+          "exerciseTypes": [
+            "multiple_choice",
+            "translation",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 3,
+          "maxStreak": 5,
+          "totalXP": 150,
+          "timeSpent": 450,
+          "isReplayable": true,
+          "difficulty": 1,
+          "estimatedTime": "5 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/A1/1-saluti-e-presentazioni.json"
+        },
+        {
+          "id": 2,
+          "title": "Numeri 1-10",
+          "uid": "italiano_a1_lezione_2",
+          "livello": "A1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            3
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.2
+          },
+          "description": "Conta fino a dieci in italiano",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "matching_pairs",
+            "listening"
+          ],
+          "lives": 5,
+          "currentStreak": 2,
+          "maxStreak": 3,
+          "totalXP": 120,
+          "timeSpent": 380,
+          "isReplayable": true,
+          "difficulty": 1,
+          "estimatedTime": "4 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/A1/2-numeri-1-10.json"
+        },
+        {
+          "id": 3,
+          "title": "Colori Base",
+          "uid": "italiano_a1_lezione_3",
+          "livello": "A1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            4
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.3
+          },
+          "description": "Impara i colori base",
+          "exerciseTypes": [
+            "multiple_choice",
+            "matching_pairs",
+            "video_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 1,
+          "estimatedTime": "6 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/A1/3-colori-base.json"
+        },
+        {
+          "id": 4,
+          "title": "Famiglia",
+          "uid": "italiano_a1_lezione_4",
+          "livello": "A1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            5
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.4
+          },
+          "description": "Membri della famiglia",
+          "exerciseTypes": [
+            "translation",
+            "multiple_choice",
+            "audio_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 2,
+          "estimatedTime": "7 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/A1/4-famiglia.json"
+        },
+        {
+          "id": 5,
+          "title": "Cibo e Bevande",
+          "uid": "italiano_a1_lezione_5",
+          "livello": "A1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            6
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.5
+          },
+          "description": "Alimenti e bevande base",
+          "exerciseTypes": [
+            "multiple_choice",
+            "fill_in_the_blank",
+            "conversation"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 2,
+          "estimatedTime": "8 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/A1/5-cibo-e-bevande.json"
+        },
+        {
+          "id": 6,
+          "title": "Animali Domestici",
+          "uid": "italiano_a1_lezione_6",
+          "livello": "A1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            7
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.6
+          },
+          "description": "Animali domestici comuni",
+          "exerciseTypes": [
+            "matching_pairs",
+            "multiple_choice",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 2,
+          "estimatedTime": "6 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/A1/6-animali-domestici.json"
+        },
+        {
+          "id": 7,
+          "title": "Casa e Mobili",
+          "uid": "italiano_a1_lezione_7",
+          "livello": "A1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            8
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.7
+          },
+          "description": "Parti della casa e mobili",
+          "exerciseTypes": [
+            "multiple_choice",
+            "translation",
+            "video_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 3,
+          "estimatedTime": "9 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/A1/7-casa-e-mobili.json"
+        },
+        {
+          "id": 8,
+          "title": "Vestiti",
+          "uid": "italiano_a1_lezione_8",
+          "livello": "A1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            9
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.8
+          },
+          "description": "Tipi di vestiti e accessori",
+          "exerciseTypes": [
+            "matching_pairs",
+            "fill_in_the_blank",
+            "audio_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 3,
+          "estimatedTime": "7 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/A1/8-vestiti.json"
+        },
+        {
+          "id": 9,
+          "title": "Tempo e Stagioni",
+          "uid": "italiano_a1_lezione_9",
+          "livello": "A1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            10
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.9
+          },
+          "description": "Giorni, mesi e stagioni",
+          "exerciseTypes": [
+            "multiple_choice",
+            "translation",
+            "conversation"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 3,
+          "estimatedTime": "8 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/A1/9-tempo-e-stagioni.json"
+        },
+        {
+          "id": 10,
+          "title": "Articoli e Pronomi",
+          "uid": "italiano_a1_lezione_10",
+          "livello": "A1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            11
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.0
+          },
+          "description": "Uso di articoli definiti e indefiniti",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "multiple_choice",
+            "listening"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 2,
+          "estimatedTime": "7 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/A1/10-articoli-e-pronomi.json"
+        },
+        {
+          "id": 11,
+          "title": "Verbi Essere e Avere",
+          "uid": "italiano_a1_lezione_11",
+          "livello": "A1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            12
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.1
+          },
+          "description": "Coniugazione presente di essere e avere",
+          "exerciseTypes": [
+            "translation",
+            "multiple_choice",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 2,
+          "estimatedTime": "6 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/A1/11-verbi-essere-e-avere.json"
+        },
+        {
+          "id": 12,
+          "title": "Frasi Semplici",
+          "uid": "italiano_a1_lezione_12",
+          "livello": "A1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [],
+          "position": {
+            "x": 0.8,
+            "y": 1.2
+          },
+          "description": "Costruisci frasi quotidiane",
+          "exerciseTypes": [
+            "conversation",
+            "fill_in_the_blank",
+            "video_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 3,
+          "estimatedTime": "10 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/A1/12-frasi-semplici.json"
+        }
+      ]
+    },
+    {
+      "title": "CORSO D'ITALIANO A2",
+      "backgroundImage": "assets/images/italy_a2.jpg",
+      "baseColor": {
+        "red": 172,
+        "green": 21,
+        "blue": 21
+      },
+      "cardColor": {
+        "red": 133,
+        "green": 27,
+        "blue": 27
+      },
+      "textColor": {
+        "red": 255,
+        "green": 255,
+        "blue": 255
+      },
+      "cefr_range": [
+        "A2"
+      ],
+      "totalLessons": 15,
+      "completedLessons": 0,
+      "progressPercentage": 0.0,
+      "lessons": [
+        {
+          "id": 21,
+          "title": "Viaggio in Italia",
+          "uid": "italiano_a2_lezione_1",
+          "livello": "A2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            22
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.1
+          },
+          "description": "Pianifica un viaggio in Italia",
+          "exerciseTypes": [
+            "conversation",
+            "reading",
+            "video_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 4,
+          "estimatedTime": "12 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/A2/21-viaggio-in-italia.json"
+        },
+        {
+          "id": 22,
+          "title": "Ristorante",
+          "uid": "italiano_a2_lezione_2",
+          "livello": "A2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            23
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.2
+          },
+          "description": "Ordina al ristorante",
+          "exerciseTypes": [
+            "role_play",
+            "listening",
+            "conversation"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 4,
+          "estimatedTime": "15 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/A2/22-ristorante.json"
+        },
+        {
+          "id": 23,
+          "title": "Shopping",
+          "uid": "italiano_a2_lezione_3",
+          "livello": "A2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            24
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.3
+          },
+          "description": "Fai shopping in Italia",
+          "exerciseTypes": [
+            "conversation",
+            "vocabulary",
+            "audio_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 4,
+          "estimatedTime": "10 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/A2/23-shopping.json"
+        },
+        {
+          "id": 24,
+          "title": "Trasporti Pubblici",
+          "uid": "italiano_a2_lezione_4",
+          "livello": "A2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            25
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.4
+          },
+          "description": "Usa i mezzi pubblici",
+          "exerciseTypes": [
+            "listening",
+            "conversation",
+            "reading"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 4,
+          "estimatedTime": "11 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/A2/24-trasporti-pubblici.json"
+        },
+        {
+          "id": 25,
+          "title": "Hotel e Alloggi",
+          "uid": "italiano_a2_lezione_5",
+          "livello": "A2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            26
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.5
+          },
+          "description": "Prenota un hotel",
+          "exerciseTypes": [
+            "reading",
+            "conversation",
+            "role_play"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 5,
+          "estimatedTime": "13 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/A2/25-hotel-e-alloggi.json"
+        },
+        {
+          "id": 26,
+          "title": "Tempo Libero",
+          "uid": "italiano_a2_lezione_6",
+          "livello": "A2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            27
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.6
+          },
+          "description": "Attività di tempo libero",
+          "exerciseTypes": [
+            "vocabulary",
+            "conversation",
+            "video_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 5,
+          "estimatedTime": "12 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/A2/26-tempo-libero.json"
+        },
+        {
+          "id": 27,
+          "title": "Emergenze",
+          "uid": "italiano_a2_lezione_7",
+          "livello": "A2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            28
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.7
+          },
+          "description": "Gestisci emergenze",
+          "exerciseTypes": [
+            "role_play",
+            "vocabulary",
+            "listening"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 5,
+          "estimatedTime": "14 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/A2/27-emergenze.json"
+        },
+        {
+          "id": 28,
+          "title": "Lavoro e Studio",
+          "uid": "italiano_a2_lezione_8",
+          "livello": "A2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            29
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.8
+          },
+          "description": "Lavoro e studio in Italia",
+          "exerciseTypes": [
+            "conversation",
+            "reading",
+            "writing"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 5,
+          "estimatedTime": "15 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/A2/28-lavoro-e-studio.json"
+        },
+        {
+          "id": 29,
+          "title": "Cultura Italiana",
+          "uid": "italiano_a2_lezione_9",
+          "livello": "A2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            30
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.9
+          },
+          "description": "Tradizioni e cultura",
+          "exerciseTypes": [
+            "reading",
+            "discussion",
+            "video_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 5,
+          "estimatedTime": "16 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/A2/29-cultura-italiana.json"
+        },
+        {
+          "id": 30,
+          "title": "Numeri 11-100",
+          "uid": "italiano_a2_lezione_10",
+          "livello": "A2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            31
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.0
+          },
+          "description": "Conta oltre dieci",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "multiple_choice",
+            "listening"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 4,
+          "estimatedTime": "9 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/A2/30-numeri-11-100.json"
+        },
+        {
+          "id": 31,
+          "title": "Aggettivi Comuni",
+          "uid": "italiano_a2_lezione_11",
+          "livello": "A2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            32
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.1
+          },
+          "description": "Descrivi persone e oggetti",
+          "exerciseTypes": [
+            "matching_pairs",
+            "translation",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 4,
+          "estimatedTime": "10 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/A2/31-aggettivi-comuni.json"
+        },
+        {
+          "id": 32,
+          "title": "Verbi Regolari -ARE",
+          "uid": "italiano_a2_lezione_12",
+          "livello": "A2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            33
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.2
+          },
+          "description": "Coniugazione verbi in -are",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "multiple_choice",
+            "conversation"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 5,
+          "estimatedTime": "12 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/A2/32-verbi-regolari-are.json"
+        },
+        {
+          "id": 33,
+          "title": "Preposizioni Semplici",
+          "uid": "italiano_a2_lezione_13",
+          "livello": "A2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            34
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.3
+          },
+          "description": "Uso di in, a, di, da",
+          "exerciseTypes": [
+            "multiple_choice",
+            "translation",
+            "audio_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 5,
+          "estimatedTime": "11 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/A2/33-preposizioni-semplici.json"
+        },
+        {
+          "id": 34,
+          "title": "Routine Quotidiana",
+          "uid": "italiano_a2_lezione_14",
+          "livello": "A2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            35
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.4
+          },
+          "description": "Parla della tua giornata",
+          "exerciseTypes": [
+            "writing",
+            "conversation",
+            "role_play"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 5,
+          "estimatedTime": "14 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/A2/34-routine-quotidiana.json"
+        },
+        {
+          "id": 35,
+          "title": "Passato Prossimo",
+          "uid": "italiano_a2_lezione_15",
+          "livello": "A2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [],
+          "position": {
+            "x": 0.2,
+            "y": 1.5
+          },
+          "description": "Racconta eventi passati",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "reading",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 5,
+          "estimatedTime": "15 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/A2/35-passato-prossimo.json"
+        }
+      ]
+    },
+    {
+      "title": "CORSO D'ITALIANO B1",
+      "backgroundImage": "assets/images/italy_b1.jpg",
+      "baseColor": {
+        "red": 30,
+        "green": 130,
+        "blue": 200
+      },
+      "cardColor": {
+        "red": 20,
+        "green": 100,
+        "blue": 160
+      },
+      "textColor": {
+        "red": 255,
+        "green": 255,
+        "blue": 255
+      },
+      "cefr_range": [
+        "B1"
+      ],
+      "totalLessons": 18,
+      "completedLessons": 0,
+      "progressPercentage": 0.0,
+      "lessons": [
+        {
+          "id": 41,
+          "title": "Opinioni e Preferenze",
+          "uid": "italiano_b1_lezione_1",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            42
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.1
+          },
+          "description": "Esprimi gusti e pareri",
+          "exerciseTypes": [
+            "discussion",
+            "writing",
+            "conversation"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 6,
+          "estimatedTime": "16 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/B1/41-opinioni-e-preferenze.json"
+        },
+        {
+          "id": 42,
+          "title": "Viaggi e Vacanze",
+          "uid": "italiano_b1_lezione_2",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            43
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.2
+          },
+          "description": "Descrivi esperienze di viaggio",
+          "exerciseTypes": [
+            "reading",
+            "role_play",
+            "video_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 6,
+          "estimatedTime": "18 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/B1/42-viaggi-e-vacanze.json"
+        },
+        {
+          "id": 43,
+          "title": "Salute e Benessere",
+          "uid": "italiano_b1_lezione_3",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            44
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.3
+          },
+          "description": "Parla dal medico",
+          "exerciseTypes": [
+            "conversation",
+            "vocabulary",
+            "listening"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 6,
+          "estimatedTime": "15 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/B1/43-salute-e-benessere.json"
+        },
+        {
+          "id": 44,
+          "title": "Ambiente e Natura",
+          "uid": "italiano_b1_lezione_4",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            45
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.4
+          },
+          "description": "Discuti di ecologia",
+          "exerciseTypes": [
+            "reading",
+            "discussion",
+            "writing"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 7,
+          "estimatedTime": "17 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/B1/44-ambiente-e-natura.json"
+        },
+        {
+          "id": 45,
+          "title": "Imperfetto",
+          "uid": "italiano_b1_lezione_5",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            46
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.5
+          },
+          "description": "Descrivi il passato abituale",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "translation",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 7,
+          "estimatedTime": "14 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B1/45-imperfetto.json"
+        },
+        {
+          "id": 46,
+          "title": "Futuro Semplice",
+          "uid": "italiano_b1_lezione_6",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            47
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.6
+          },
+          "description": "Parla di piani futuri",
+          "exerciseTypes": [
+            "multiple_choice",
+            "conversation",
+            "writing"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 7,
+          "estimatedTime": "13 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B1/46-futuro-semplice.json"
+        },
+        {
+          "id": 47,
+          "title": "Pronomi Diretti",
+          "uid": "italiano_b1_lezione_7",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            48
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.7
+          },
+          "description": "Sostituisci oggetti diretti",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "translation",
+            "audio_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 7,
+          "estimatedTime": "12 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B1/47-pronomi-diretti.json"
+        },
+        {
+          "id": 48,
+          "title": "Condizionale Presente",
+          "uid": "italiano_b1_lezione_8",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            49
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.8
+          },
+          "description": "Esprimi desideri e consigli",
+          "exerciseTypes": [
+            "multiple_choice",
+            "role_play",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 7,
+          "estimatedTime": "15 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B1/48-condizionale-presente.json"
+        },
+        {
+          "id": 49,
+          "title": "Notizie e Media",
+          "uid": "italiano_b1_lezione_9",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            50
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.9
+          },
+          "description": "Leggi e commenta notizie",
+          "exerciseTypes": [
+            "reading",
+            "discussion",
+            "video_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 6,
+          "estimatedTime": "18 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/B1/49-notizie-e-media.json"
+        },
+        {
+          "id": 50,
+          "title": "Lavoro e Carriera",
+          "uid": "italiano_b1_lezione_10",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            51
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.0
+          },
+          "description": "Colloqui e CV",
+          "exerciseTypes": [
+            "writing",
+            "conversation",
+            "role_play"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 7,
+          "estimatedTime": "20 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/B1/50-lavoro-e-carriera.json"
+        },
+        {
+          "id": 51,
+          "title": "Espressioni Idiomatiche",
+          "uid": "italiano_b1_lezione_11",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            52
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.1
+          },
+          "description": "Modi di dire comuni",
+          "exerciseTypes": [
+            "matching_pairs",
+            "multiple_choice",
+            "listening"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 6,
+          "estimatedTime": "14 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/B1/51-espressioni-idiomatiche.json"
+        },
+        {
+          "id": 52,
+          "title": "Comparativi e Superlativi",
+          "uid": "italiano_b1_lezione_12",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            53
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.2
+          },
+          "description": "Confronta cose e persone",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "translation",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 7,
+          "estimatedTime": "13 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B1/52-comparativi-e-superlativi.json"
+        },
+        {
+          "id": 53,
+          "title": "Storia Italiana",
+          "uid": "italiano_b1_lezione_13",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            54
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.3
+          },
+          "description": "Eventi storici principali",
+          "exerciseTypes": [
+            "reading",
+            "discussion",
+            "video_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 6,
+          "estimatedTime": "17 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/B1/53-storia-italiana.json"
+        },
+        {
+          "id": 54,
+          "title": "Tecnologia e Internet",
+          "uid": "italiano_b1_lezione_14",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            55
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.4
+          },
+          "description": "Parla di social e app",
+          "exerciseTypes": [
+            "conversation",
+            "writing",
+            "listening"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 7,
+          "estimatedTime": "16 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/B1/54-tecnologia-e-internet.json"
+        },
+        {
+          "id": 55,
+          "title": "Pronomi Indiretti",
+          "uid": "italiano_b1_lezione_15",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            56
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.5
+          },
+          "description": "Uso di mi, ti, gli",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "multiple_choice",
+            "role_play"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 7,
+          "estimatedTime": "14 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B1/55-pronomi-indiretti.json"
+        },
+        {
+          "id": 56,
+          "title": "Arte e Letteratura",
+          "uid": "italiano_b1_lezione_16",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            57
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.6
+          },
+          "description": "Opere famose italiane",
+          "exerciseTypes": [
+            "reading",
+            "discussion",
+            "video_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 6,
+          "estimatedTime": "19 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/B1/56-arte-e-letteratura.json"
+        },
+        {
+          "id": 57,
+          "title": "Verbi Modali",
+          "uid": "italiano_b1_lezione_17",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            58
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.7
+          },
+          "description": "Potere, dovere, volere",
+          "exerciseTypes": [
+            "translation",
+            "conversation",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 7,
+          "estimatedTime": "15 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B1/57-verbi-modali.json"
+        },
+        {
+          "id": 58,
+          "title": "Riassunto Finale B1",
+          "uid": "italiano_b1_lezione_18",
+          "livello": "B1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [],
+          "position": {
+            "x": 0.8,
+            "y": 1.8
+          },
+          "description": "Revisione completa B1",
+          "exerciseTypes": [
+            "multiple_choice",
+            "writing",
+            "role_play",
+            "video_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": true,
+          "difficulty": 7,
+          "estimatedTime": "25 min",
+          "category": "Revisione",
+          "exercisePath": "assets/curso/B1/58-riassunto-finale-b1.json"
+        }
+      ]
+    },
+    {
+      "title": "CORSO D'ITALIANO B2",
+      "backgroundImage": "assets/images/italy_b2.jpg",
+      "baseColor": {
+        "red": 200,
+        "green": 120,
+        "blue": 30
+      },
+      "cardColor": {
+        "red": 160,
+        "green": 90,
+        "blue": 20
+      },
+      "textColor": {
+        "red": 255,
+        "green": 255,
+        "blue": 255
+      },
+      "cefr_range": [
+        "B2"
+      ],
+      "totalLessons": 20,
+      "completedLessons": 0,
+      "progressPercentage": 0.0,
+      "lessons": [
+        {
+          "id": 61,
+          "title": "Argomenti Complessi",
+          "uid": "italiano_b2_lezione_1",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            62
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.1
+          },
+          "description": "Discuti politica e società",
+          "exerciseTypes": [
+            "discussion",
+            "reading",
+            "writing"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 8,
+          "estimatedTime": "20 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/B2/61-argomenti-complessi.json"
+        },
+        {
+          "id": 62,
+          "title": "Congiuntivo Imperfetto",
+          "uid": "italiano_b2_lezione_2",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            63
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.2
+          },
+          "description": "Uso in frasi subordinate",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "translation",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 9,
+          "estimatedTime": "18 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B2/62-congiuntivo-imperfetto.json"
+        },
+        {
+          "id": 63,
+          "title": "Letteratura Contemporanea",
+          "uid": "italiano_b2_lezione_3",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            64
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.3
+          },
+          "description": "Analizza testi moderni",
+          "exerciseTypes": [
+            "reading",
+            "discussion",
+            "writing"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 8,
+          "estimatedTime": "22 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/B2/63-letteratura-contemporanea.json"
+        },
+        {
+          "id": 64,
+          "title": "Espressioni Colloquiali",
+          "uid": "italiano_b2_lezione_4",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            65
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.4
+          },
+          "description": "Slang e regionalismi",
+          "exerciseTypes": [
+            "listening",
+            "multiple_choice",
+            "conversation"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 8,
+          "estimatedTime": "17 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/B2/64-espressioni-colloquiali.json"
+        },
+        {
+          "id": 65,
+          "title": "Trapassato Prossimo",
+          "uid": "italiano_b2_lezione_5",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            66
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.5
+          },
+          "description": "Eventi anteriori al passato",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "reading",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 9,
+          "estimatedTime": "16 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B2/65-trapassato-prossimo.json"
+        },
+        {
+          "id": 66,
+          "title": "Business Italian",
+          "uid": "italiano_b2_lezione_6",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            67
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.6
+          },
+          "description": "Riunioni e negoziazioni",
+          "exerciseTypes": [
+            "role_play",
+            "writing",
+            "listening"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 9,
+          "estimatedTime": "25 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/B2/66-business-italian.json"
+        },
+        {
+          "id": 67,
+          "title": "Pronomi Combinati",
+          "uid": "italiano_b2_lezione_7",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            68
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.7
+          },
+          "description": "Me lo, glielo, ecc.",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "multiple_choice",
+            "translation"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 9,
+          "estimatedTime": "15 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B2/67-pronomi-combinati.json"
+        },
+        {
+          "id": 68,
+          "title": "Cinema Italiano",
+          "uid": "italiano_b2_lezione_8",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            69
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.8
+          },
+          "description": "Recensioni di film",
+          "exerciseTypes": [
+            "video_comprehension",
+            "writing",
+            "discussion"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 8,
+          "estimatedTime": "20 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/B2/68-cinema-italiano.json"
+        },
+        {
+          "id": 69,
+          "title": "Periodo Ipotetico",
+          "uid": "italiano_b2_lezione_9",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            70
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.9
+          },
+          "description": "Se + condizionale",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "conversation",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 9,
+          "estimatedTime": "18 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B2/69-periodo-ipotetico.json"
+        },
+        {
+          "id": 70,
+          "title": "Attualità e Dibattiti",
+          "uid": "italiano_b2_lezione_10",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            71
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.0
+          },
+          "description": "Argomenta pro e contro",
+          "exerciseTypes": [
+            "discussion",
+            "writing",
+            "role_play"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 9,
+          "estimatedTime": "22 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/B2/70-attualita-e-dibattiti.json"
+        },
+        {
+          "id": 71,
+          "title": "Verbi Riflessivi Avanzati",
+          "uid": "italiano_b2_lezione_11",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            72
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.1
+          },
+          "description": "Uso idiomatico",
+          "exerciseTypes": [
+            "translation",
+            "multiple_choice",
+            "listening"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 8,
+          "estimatedTime": "16 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B2/71-verbi-riflessivi-avanzati.json"
+        },
+        {
+          "id": 72,
+          "title": "Musica Italiana",
+          "uid": "italiano_b2_lezione_12",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            73
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.2
+          },
+          "description": "Testi di canzoni",
+          "exerciseTypes": [
+            "listening",
+            "reading",
+            "discussion"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 8,
+          "estimatedTime": "19 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/B2/72-musica-italiana.json"
+        },
+        {
+          "id": 73,
+          "title": "Congiuntivo Trapassato",
+          "uid": "italiano_b2_lezione_13",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            74
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.3
+          },
+          "description": "Frasi complesse passate",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "translation",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 9,
+          "estimatedTime": "17 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B2/73-congiuntivo-trapassato.json"
+        },
+        {
+          "id": 74,
+          "title": "Scienza e Tecnologia",
+          "uid": "italiano_b2_lezione_14",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            75
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.4
+          },
+          "description": "Articoli scientifici",
+          "exerciseTypes": [
+            "reading",
+            "vocabulary",
+            "discussion"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 9,
+          "estimatedTime": "21 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/B2/74-scienza-e-tecnologia.json"
+        },
+        {
+          "id": 75,
+          "title": "Preposizioni Articolate",
+          "uid": "italiano. b2_lezione_15",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            76
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.5
+          },
+          "description": "Del, al, nel avanzato",
+          "exerciseTypes": [
+            "multiple_choice",
+            "fill_in_the_blank",
+            "conversation"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 8,
+          "estimatedTime": "15 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B2/75-preposizioni-articolate.json"
+        },
+        {
+          "id": 76,
+          "title": "Viaggi Avventurosi",
+          "uid": "italiano_b2_lezione_16",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            77
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.6
+          },
+          "description": "Racconti di viaggio",
+          "exerciseTypes": [
+            "writing",
+            "speaking",
+            "role_play"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 9,
+          "estimatedTime": "23 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/B2/76-viaggi-avventurosi.json"
+        },
+        {
+          "id": 77,
+          "title": "Gerundio e Participio",
+          "uid": "italiano_b2_lezione_17",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            78
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.7
+          },
+          "description": "Frasi subordinate",
+          "exerciseTypes": [
+            "translation",
+            "multiple_choice",
+            "reading"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 9,
+          "estimatedTime": "18 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B2/77-gerundio-e-participio.json"
+        },
+        {
+          "id": 78,
+          "title": "Gastronomia Regionale",
+          "uid": "italiano_b2_lezione_18",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            79
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.8
+          },
+          "description": "Cucina tipica italiana",
+          "exerciseTypes": [
+            "video_comprehension",
+            "discussion",
+            "vocabulary"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "difficulty": 8,
+          "estimatedTime": "20 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/B2/78-gastronomia-regionale.json"
+        },
+        {
+          "id": 79,
+          "title": "Discorso Indiretto",
+          "uid": "italiano_b2_lezione_19",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            80
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.9
+          },
+          "description": "Riporta ciò che dicono",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "writing",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 9,
+          "estimatedTime": "19 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/B2/79-discorso-indiretto.json"
+        },
+        {
+          "id": 80,
+          "title": "Revisione B2",
+          "uid": "italiano_b2_lezione_20",
+          "livello": "B2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [],
+          "position": {
+            "x": 0.8,
+            "y": 2.0
+          },
+          "description": "Simulazione esame B2",
+          "exerciseTypes": [
+            "multiple_choice",
+            "writing",
+            "role_play",
+            "listening",
+            "reading"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": true,
+          "difficulty": 9,
+          "estimatedTime": "30 min",
+          "category": "Revisione",
+          "exercisePath": "assets/curso/B2/80-revisione-b2.json"
+        }
+      ]
+    },
+    {
+      "title": "CORSO D'ITALIANO C1",
+      "backgroundImage": "assets/images/italy_c1.jpg",
+      "baseColor": {
+        "red": 100,
+        "green": 30,
+        "blue": 150
+      },
+      "cardColor": {
+        "red": 70,
+        "green": 20,
+        "blue": 110
+      },
+      "textColor": {
+        "red": 255,
+        "green": 255,
+        "blue": 255
+      },
+      "cefr_range": [
+        "C1"
+      ],
+      "totalLessons": 22,
+      "completedLessons": 0,
+      "progressPercentage": 0.0,
+      "lessons": [
+        {
+          "id": 81,
+          "title": "Temi Astratti",
+          "uid": "italiano_c1_lezione_1",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            82
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.1
+          },
+          "description": "Filosofia e etica",
+          "exerciseTypes": [
+            "discussion",
+            "writing",
+            "reading"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "25 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/C1/81-temi-astratti.json"
+        },
+        {
+          "id": 82,
+          "title": "Congiuntivo Complesso",
+          "uid": "italiano_c1_lezione_2",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            83
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.2
+          },
+          "description": "Tutte le forme e usi",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "translation",
+            "analysis"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "22 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/C1/82-congiuntivo-complesso.json"
+        },
+        {
+          "id": 83,
+          "title": "Letteratura Classica",
+          "uid": "italiano_c1_lezione_3",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            84
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.3
+          },
+          "description": "Dante, Petrarca, Boccaccio",
+          "exerciseTypes": [
+            "reading",
+            "analysis",
+            "discussion"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "28 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C1/83-letteratura-classica.json"
+        },
+        {
+          "id": 84,
+          "title": "Linguaggio Formale",
+          "uid": "italiano_c1_lezione_4",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            85
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.4
+          },
+          "description": "Lettere ufficiali e saggi",
+          "exerciseTypes": [
+            "writing",
+            "vocabulary",
+            "role_play"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "26 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/C1/84-linguaggio-formale.json"
+        },
+        {
+          "id": 85,
+          "title": "Passivo Avanzato",
+          "uid": "italiano_c1_lezione_5",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            86
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.5
+          },
+          "description": "Tutte le tempi e verbi",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "translation",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "20 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/C1/85-passivo-avanzato.json"
+        },
+        {
+          "id": 86,
+          "title": "Politica Italiana",
+          "uid": "italiano_c1_lezione_6",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            87
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.6
+          },
+          "description": "Sistema e attualità",
+          "exerciseTypes": [
+            "reading",
+            "discussion",
+            "video_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "27 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C1/86-politica-italiana.json"
+        },
+        {
+          "id": 87,
+          "title": "Frasi Relative Complesse",
+          "uid": "italiano_c1_lezione_7",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            88
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.7
+          },
+          "description": "Il quale, cui, ecc.",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "analysis",
+            "writing"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "21 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/C1/87-frasi-relative-complesse.json"
+        },
+        {
+          "id": 88,
+          "title": "Economia e Finanza",
+          "uid": "italiano_c1_lezione_8",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            89
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.8
+          },
+          "description": "Rapporti e analisi",
+          "exerciseTypes": [
+            "reading",
+            "vocabulary",
+            "discussion"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "25 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C1/88-economia-e-finanza.json"
+        },
+        {
+          "id": 89,
+          "title": "Discorso Figurativo",
+          "uid": "italiano_c1_lezione_9",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            90
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.9
+          },
+          "description": "Metafore e similitudini",
+          "exerciseTypes": [
+            "analysis",
+            "writing",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "23 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/C1/89-discorso-figurativo.json"
+        },
+        {
+          "id": 90,
+          "title": "Storia dell'Arte",
+          "uid": "italiano_c1_lezione_10",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            91
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.0
+          },
+          "description": "Rinascimento e Barocco",
+          "exerciseTypes": [
+            "video_comprehension",
+            "reading",
+            "discussion"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "28 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C1/90-storia-dell-arte.json"
+        },
+        {
+          "id": 91,
+          "title": "Condizionale Passato",
+          "uid": "italiano_c1_lezione_11",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            92
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.1
+          },
+          "description": "Ipotetiche passate",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "conversation",
+            "analysis"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "20 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/C1/91-condizionale-passato.json"
+        },
+        {
+          "id": 92,
+          "title": "Dibattiti Accademici",
+          "uid": "italiano_c1_lezione_12",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            93
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.2
+          },
+          "description": "Argomentazioni strutturate",
+          "exerciseTypes": [
+            "discussion",
+            "writing",
+            "role_play"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "30 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/C1/92-dibattiti-accademici.json"
+        },
+        {
+          "id": 93,
+          "title": "Verbi Frasali",
+          "uid": "italiano_c1_lezione_13",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            94
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.3
+          },
+          "description": "Espressioni con fare, andare",
+          "exerciseTypes": [
+            "matching_pairs",
+            "translation",
+            "listening"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "19 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/C1/93-verbi-frasali.json"
+        },
+        {
+          "id": 94,
+          "title": "Teatro Italiano",
+          "uid": "italiano_c1_lezione_14",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            95
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.4
+          },
+          "description": "Pirandello e Goldoni",
+          "exerciseTypes": [
+            "reading",
+            "analysis",
+            "discussion"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "27 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C1/94-teatro-italiano.json"
+        },
+        {
+          "id": 95,
+          "title": "Strutture Discorsive",
+          "uid": "italiano_c1_lezione_15",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            96
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.5
+          },
+          "description": "Connettivi avanzati",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "writing",
+            "speaking"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "22 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/C1/95-strutture-discorsive.json"
+        },
+        {
+          "id": 96,
+          "title": "Globalizzazione",
+          "uid": "italiano_c1_lezione_16",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            97
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.6
+          },
+          "description": "Impatto sull'Italia",
+          "exerciseTypes": [
+            "reading",
+            "discussion",
+            "video_comprehension"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "26 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C1/96-globalizzazione.json"
+        },
+        {
+          "id": 97,
+          "title": "Registro Linguistico",
+          "uid": "italiano_c1_lezione_17",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            98
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.7
+          },
+          "description": "Formale vs informale",
+          "exerciseTypes": [
+            "analysis",
+            "role_play",
+            "writing"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "24 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/C1/97-registro-linguistico.json"
+        },
+        {
+          "id": 98,
+          "title": "Filosofia Italiana",
+          "uid": "italiano_c1_lezione_18",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            99
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.8
+          },
+          "description": "Vico, Croce, Gramsci",
+          "exerciseTypes": [
+            "reading",
+            "analysis",
+            "discussion"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "29 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C1/98-filosofia-italiana.json"
+        },
+        {
+          "id": 99,
+          "title": "Sintassi Avanzata",
+          "uid": "italiano_c1_lezione_19",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            100
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.9
+          },
+          "description": "Frasi complesse",
+          "exerciseTypes": [
+            "fill_in_the_blank",
+            "translation",
+            "analysis"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "23 min",
+          "category": "Grammatica",
+          "exercisePath": "assets/curso/C1/99-sintassi-avanzata.json"
+        },
+        {
+          "id": 100,
+          "title": "Presentazioni Professionali",
+          "uid": "italiano_c1_lezione_20",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            101
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 2.0
+          },
+          "description": "Speech e conferenze",
+          "exerciseTypes": [
+            "speaking",
+            "writing",
+            "role_play"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "28 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/C1/100-presentazioni-professionali.json"
+        },
+        {
+          "id": 101,
+          "title": "Espressioni Letterarie",
+          "uid": "italiano_c1_lezione_21",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            102
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 2.1
+          },
+          "description": "Figure retoriche",
+          "exerciseTypes": [
+            "analysis",
+            "reading",
+            "writing"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 10,
+          "estimatedTime": "25 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/C1/101-espressioni-letterarie.json"
+        },
+        {
+          "id": 102,
+          "title": "Revisione C1",
+          "uid": "italiano_c1_lezione_22",
+          "livello": "C1",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [],
+          "position": {
+            "x": 0.8,
+            "y": 2.2
+          },
+          "description": "Simulazione esame C1",
+          "exerciseTypes": [
+            "multiple_choice",
+            "writing",
+            "speaking",
+            "listening",
+            "reading",
+            "analysis"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": true,
+          "difficulty": 10,
+          "estimatedTime": "35 min",
+          "category": "Revisione",
+          "exercisePath": "assets/curso/C1/102-revisione-c1.json"
+        }
+      ]
+    },
+    {
+      "title": "CORSO D'ITALIANO C2",
+      "backgroundImage": "assets/images/italy_c2.jpg",
+      "baseColor": {
+        "red": 0,
+        "green": 0,
+        "blue": 0
+      },
+      "cardColor": {
+        "red": 30,
+        "green": 30,
+        "blue": 30
+      },
+      "textColor": {
+        "red": 255,
+        "green": 255,
+        "blue": 255
+      },
+      "cefr_range": [
+        "C2"
+      ],
+      "totalLessons": 20,
+      "completedLessons": 0,
+      "progressPercentage": 0.0,
+      "lessons": [
+        {
+          "id": 111,
+          "title": "Linguaggio Poetico",
+          "uid": "italiano_c2_lezione_1",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            112
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.1
+          },
+          "description": "Analisi di poesia",
+          "exerciseTypes": [
+            "reading",
+            "analysis",
+            "writing"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "30 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C2/111-linguaggio-poetico.json"
+        },
+        {
+          "id": 112,
+          "title": "Dialetti Italiani",
+          "uid": "italiano_c2_lezione_2",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            113
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.2
+          },
+          "description": "Variazioni regionali",
+          "exerciseTypes": [
+            "listening",
+            "analysis",
+            "conversation"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "28 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/C2/112-dialetti-italiani.json"
+        },
+        {
+          "id": 113,
+          "title": "Critica Letteraria",
+          "uid": "italiano_c2_lezione_3",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            114
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.3
+          },
+          "description": "Scrivere recensioni",
+          "exerciseTypes": [
+            "writing",
+            "analysis",
+            "discussion"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "32 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C2/113-critica-letteraria.json"
+        },
+        {
+          "id": 114,
+          "title": "Linguistica Italiana",
+          "uid": "italiano_c2_lezione_4",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            115
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.4
+          },
+          "description": "Evoluzione della lingua",
+          "exerciseTypes": [
+            "reading",
+            "analysis",
+            "discussion"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "30 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C2/114-linguistica-italiana.json"
+        },
+        {
+          "id": 115,
+          "title": "Retorica Avanzata",
+          "uid": "italiano_c2_lezione_5",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            116
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.5
+          },
+          "description": "Tecniche persuasive",
+          "exerciseTypes": [
+            "speaking",
+            "writing",
+            "analysis"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "29 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/C2/115-retorica-avanzata.json"
+        },
+        {
+          "id": 116,
+          "title": "Testi Giuridici",
+          "uid": "italiano_c2_lezione_6",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            117
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.6
+          },
+          "description": "Leggi e contratti",
+          "exerciseTypes": [
+            "reading",
+            "vocabulary",
+            "analysis"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "31 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C2/116-testi-giuridici.json"
+        },
+        {
+          "id": 117,
+          "title": "Traduzione Letteraria",
+          "uid": "italiano_c2_lezione_7",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            118
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.7
+          },
+          "description": "Da e verso italiano",
+          "exerciseTypes": [
+            "translation",
+            "analysis",
+            "writing"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "35 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/C2/117-traduzione-letteraria.json"
+        },
+        {
+          "id": 118,
+          "title": "Saggi Filosofici",
+          "uid": "italiano_c2_lezione_8",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            119
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 0.8
+          },
+          "description": "Testi complessi",
+          "exerciseTypes": [
+            "reading",
+            "analysis",
+            "discussion"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "33 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C2/118-saggi-filosofici.json"
+        },
+        {
+          "id": 119,
+          "title": "Discorsi Politici",
+          "uid": "italiano_c2_lezione_9",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            120
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 0.9
+          },
+          "description": "Analisi e creazione",
+          "exerciseTypes": [
+            "listening",
+            "speaking",
+            "writing"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "32 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/C2/119-discorsi-politici.json"
+        },
+        {
+          "id": 120,
+          "title": "Testi Scientifici",
+          "uid": "italiano_c2_lezione_10",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            121
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.0
+          },
+          "description": "Articoli accademici",
+          "exerciseTypes": [
+            "reading",
+            "vocabulary",
+            "analysis"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "30 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C2/120-testi-scientifici.json"
+        },
+        {
+          "id": 121,
+          "title": "Stile e Registro",
+          "uid": "italiano_c2_lezione_11",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            122
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.1
+          },
+          "description": "Adattamento perfetto",
+          "exerciseTypes": [
+            "writing",
+            "analysis",
+            "role_play"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "28 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/C2/121-stile-e-registro.json"
+        },
+        {
+          "id": 122,
+          "title": "Opera Lirica",
+          "uid": "italiano_c2_lezione_12",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            123
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.2
+          },
+          "description": "Libretti e analisi",
+          "exerciseTypes": [
+            "listening",
+            "reading",
+            "discussion"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "31 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C2/122-opera-lirica.json"
+        },
+        {
+          "id": 123,
+          "title": "Ironia e Satira",
+          "uid": "italiano_c2_lezione_13",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            124
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.3
+          },
+          "description": "Umorismo sofisticato",
+          "exerciseTypes": [
+            "reading",
+            "analysis",
+            "writing"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "29 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/C2/123-ironia-e-satira.json"
+        },
+        {
+          "id": 124,
+          "title": "Conferenze Accademiche",
+          "uid": "italiano_c2_lezione_14",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            125
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.4
+          },
+          "description": "Presentazioni complesse",
+          "exerciseTypes": [
+            "speaking",
+            "writing",
+            "role_play"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "35 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/C2/124-conferenze-accademiche.json"
+        },
+        {
+          "id": 125,
+          "title": "Testi Storici",
+          "uid": "italiano_c2_lezione_15",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            126
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.5
+          },
+          "description": "Documenti antichi",
+          "exerciseTypes": [
+            "reading",
+            "analysis",
+            "translation"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "32 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C2/125-testi-storici.json"
+        },
+        {
+          "id": 126,
+          "title": "Espressioni Arcaiche",
+          "uid": "italiano_c2_lezione_16",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            127
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.6
+          },
+          "description": "Vocabolario storico",
+          "exerciseTypes": [
+            "vocabulary",
+            "translation",
+            "analysis"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "27 min",
+          "category": "Vocabolario",
+          "exercisePath": "assets/curso/C2/126-espressioni-arcaiche.json"
+        },
+        {
+          "id": 127,
+          "title": "Dibattiti Televisivi",
+          "uid": "italiano_c2_lezione_17",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            128
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.7
+          },
+          "description": "Argomentazioni rapide",
+          "exerciseTypes": [
+            "listening",
+            "speaking",
+            "discussion"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "30 min",
+          "category": "Conversazione",
+          "exercisePath": "assets/curso/C2/127-dibattiti-televisivi.json"
+        },
+        {
+          "id": 128,
+          "title": "Critica Cinematografica",
+          "uid": "italiano_c2_lezione_18",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            129
+          ],
+          "position": {
+            "x": 0.8,
+            "y": 1.8
+          },
+          "description": "Analisi approfondita",
+          "exerciseTypes": [
+            "video_comprehension",
+            "writing",
+            "analysis"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": false,
+          "difficulty": 11,
+          "estimatedTime": "33 min",
+          "category": "Cultura",
+          "exercisePath": "assets/curso/C2/128-critica-cinematografica.json"
+        },
+        {
+          "id": 129,
+          "title": "Mastery Test",
+          "uid": "italiano_c2_lezione_19",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [
+            130
+          ],
+          "position": {
+            "x": 0.2,
+            "y": 1.9
+          },
+          "description": "Valutazione completa",
+          "exerciseTypes": [
+            "multiple_choice",
+            "writing",
+            "speaking",
+            "listening",
+            "reading",
+            "analysis"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": true,
+          "difficulty": 11,
+          "estimatedTime": "40 min",
+          "category": "Revisione",
+          "exercisePath": "assets/curso/C2/129-mastery-test.json"
+        },
+        {
+          "id": 130,
+          "title": "Progetto Finale C2",
+          "uid": "italiano_c2_lezione_20",
+          "livello": "C2",
+          "isUnlocked": false,
+          "isCompleted": false,
+          "nextLessonIds": [],
+          "positionfilms": {
+            "x": 0.8,
+            "y": 2.0
+          },
+          "description": "Saggio o presentazione",
+          "exerciseTypes": [
+            "writing",
+            "speaking",
+            "analysis"
+          ],
+          "lives": 5,
+          "currentStreak": 0,
+          "maxStreak": 0,
+          "totalXP": 0,
+          "timeSpent": 0,
+          "isReplayable": true,
+          "difficulty": 11,
+          "estimatedTime": "45 min",
+          "category": "Revisione",
+          "exercisePath": "assets/curso/C2/130-progetto-finale-c2.json"
+        }
+      ]
+    }
+  ]
+}
