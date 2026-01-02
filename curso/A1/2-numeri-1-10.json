@@ -13,7 +13,7 @@
       ],
       "correctAnswer": "Zero",
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
+      "soundCorrectAnswer": "https://github.com/fondazionecrocereale/semita-lingua-italica-discere/blob/main/audios/2-numeri-1-10/zero.mp3"
     },
     {
       "exerciseType": "fill_in_the_blank",
@@ -753,4 +753,5 @@
       "soundCorrectAnswer": "correct.mp3"
     }
   ]
+
 }
