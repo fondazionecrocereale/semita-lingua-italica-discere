@@ -27,7 +27,7 @@
       "lessons": [
         {
           "id": 1,
-          "title": "Saluti e Presentazioni",
+          "title": "Saluti e Presentazion",
           "uid": "italiano_a1_lezione_1",
           "livello": "A1",
           "isUnlocked": true,
@@ -54,7 +54,7 @@
           "difficulty": 1,
           "estimatedTime": "5 min",
           "category": "Conversazione",
-          "exercisePath": "assets/curso/A1/1-saluti-e-presentazioni.json"
+          "exercisePath": "https://raw.githubusercontent.com/fondazionecrocereale/semita-lingua-italica-discere/refs/heads/main/curso/A1/1-saluti-e-presenzatione.json"
         },
         {
           "id": 2,
