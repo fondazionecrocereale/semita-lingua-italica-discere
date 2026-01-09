@@ -59,11 +59,11 @@
     },
     {
       "exerciseType": "translation",
-      "question": "Soy Greta",
+      "question": "Soy Beatriz",
       "sound": "",
       "wordOptions": [
         "Sono",
-        "Greta",
+        "Beatrice",
         "mi",
         "chiamo",
         "il",
@@ -71,7 +71,7 @@
       ],
       "correctAnswer": [
         "Sono",
-        "Greta"
+        "Beatrice"
       ],
       "soundWrongAnswer": "wrong.mp3",
       "soundCorrectAnswer": "correct.mp3"
@@ -760,3 +760,4 @@
   ]
 
 }
+
