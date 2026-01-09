@@ -74,7 +74,7 @@
         "Beatrice"
       ],
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
+      "soundCorrectAnswer": "https://github.com/fondazionecrocereale/semita-lingua-italica-discere/blob/main/audios/1-saluti-e-presentazione/sonobeatrice.mp3"
     },
     {
       "exerciseType": "multiple_choice",
@@ -760,5 +760,6 @@
   ]
 
 }
+
 
 
