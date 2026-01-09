@@ -11,23 +11,23 @@
         "Ciao",
         "Buonasera"
       ],
-      "correctAnswer": "Buongiorno, mi chiamo Dante",
+      "correctAnswer": "Buongiorno",
       "soundWrongAnswer": "assets/audio/wrong.mp3",
       "soundCorrectAnswer": "assets/audio/correct.mp3"
     },
         {
       "exerciseType": "multiple_choice",
-      "question": "Come si dice \"Me llamo María\"?",
+      "question": "Come si dice \"Buenas Tardes\"?",
       "sound": "",
       "options": [
-        "Il mio nome è Maria",
-        "Mi chiamo Maria",
-        "Sono Maria",
-        "Maria chiamo mi"
+          "Buon Pomeriggio",
+        "Buongiorno",
+        "Ciao",
+        "Buonasera"
       ],
-      "correctAnswer": "Mi chiamo Maria",
+      "correctAnswer": "Buonasera",
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "https://github.com/fondazionecrocereale/semita-lingua-italica-discere/blob/main/audios/1-saluti-e-presentazione/mi-chiamo-maria.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/buonasera.mp3"
     },
     {
       "exerciseType": "video_comprehension",
@@ -43,7 +43,20 @@
       "soundWrongAnswer": "assets/audio/wrong.mp3",
       "soundCorrectAnswer": "assets/audio/correct.mp3"
     },
-
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Me llamo María\"?",
+      "sound": "",
+      "options": [
+        "Il mio nome è Maria",
+        "Mi chiamo Maria",
+        "Sono Maria",
+        "Maria chiamo mi"
+      ],
+      "correctAnswer": "Mi chiamo Maria",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://github.com/fondazionecrocereale/semita-lingua-italica-discere/blob/main/audios/1-saluti-e-presentazione/mi-chiamo-maria.mp3"
+    },
     {
       "exerciseType": "fill_in_the_blank",
       "question": "_____ chiamo Luca.",
@@ -75,7 +88,7 @@
     {
       "exerciseType": "translation",
       "question": "Soy Beatriz",
-      "sound": "https://github.com/fondazionecrocereale/semita-lingua-italica-discere/blob/main/audios/1-saluti-e-presentazione/sonobeatrice.mp3",
+      "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/sonobeatrice.mp3",
       "wordOptions": [
         "Sono",
         "Beatrice",
@@ -89,7 +102,7 @@
         "Beatrice"
       ],
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "https://github.com/fondazionecrocereale/semita-lingua-italica-discere/blob/main/audios/1-saluti-e-presentazione/sonobeatrice.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/sonobeatrice.mp3"
     },
     {
       "exerciseType": "multiple_choice",
@@ -775,6 +788,7 @@
   ]
 
 }
+
 
 
 
