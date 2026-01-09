@@ -60,7 +60,7 @@
     {
       "exerciseType": "translation",
       "question": "Soy Beatriz",
-      "sound": "",
+      "sound": "https://github.com/fondazionecrocereale/semita-lingua-italica-discere/blob/main/audios/1-saluti-e-presentazione/sonobeatrice.mp3",
       "wordOptions": [
         "Sono",
         "Beatrice",
@@ -760,4 +760,5 @@
   ]
 
 }
+
 
