@@ -53,7 +53,7 @@
         "Buonanotte",
         "Buonasera"
       ],
-      "correctAnswer": "Buonasera",
+      "correctAnswer": "Buonanotte",
       "soundWrongAnswer": "wrong.mp3",
       "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/buonanotte.mp3"
     },
@@ -141,7 +141,7 @@
         "Ciao",
         "Arrivederci"
       ],
-      "correctAnswer": "Buonasera",
+      "correctAnswer": "Arrivederci",
       "soundWrongAnswer": "wrong.mp3",
       "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/buonanotte.mp3"
     },
@@ -829,6 +829,7 @@
   ]
 
 }
+
 
 
 
