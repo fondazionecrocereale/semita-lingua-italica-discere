@@ -154,7 +154,7 @@
         "Ciao",
         "Arrivederci"
       ],
-      "correctAnswer": "Arrivederci",
+      "correctAnswer": "Ciao",
       "soundWrongAnswer": "wrong.mp3",
       "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Arrivederci.mp3"
     },
@@ -183,7 +183,7 @@
       ],
       "correctAnswer": "Ciao",
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Arrivederci.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Ciao.mp3"
     },
     {
       "exerciseType": "multiple_choice",
@@ -249,21 +249,21 @@
     },
     {
       "exerciseType": "multiple_choice",
-      "question": "Come si dice \"Vengo de Roma\"?",
+      "question": "Come si dice \"Vengo de Rosario\"?",
       "sound": "",
       "options": [
-        "Vengo da Roma",
-        "Vengo di Roma",
-        "Sono da Roma",
-        "Vado da Roma"
+        "Vengo da Rosario",
+        "Vengo di Rosario",
+        "Sono da Rosario",
+        "Vado da Rosario"
       ],
-      "correctAnswer": "Vengo da Roma",
+      "correctAnswer": "Vengo da Rosario",
       "soundWrongAnswer": "wrong.mp3",
       "soundCorrectAnswer": "correct.mp3"
     },
     {
       "exerciseType": "fill_in_the_blank",
-      "question": "Vengo _____ Italia.",
+      "question": "Vengo _____ Argentina.",
       "sound": "",
       "options": [
         "dall'",
@@ -276,56 +276,22 @@
       "soundCorrectAnswer": "correct.mp3"
     },
     {
-      "exerciseType": "multiple_choice_alt",
-      "question": "Davanti ai nomi delle Nazioni si usa:",
-      "sound": "",
-      "options": [
-        "L'articolo",
-        "La preposizione senza articolo",
-        "Niente",
-        "Solo il nome"
-      ],
-      "correctAnswer": "L'articolo",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "translation",
-      "question": "Vengo de España",
-      "sound": "",
-      "wordOptions": [
-        "Vengo",
-        "dalla",
-        "Spagna",
-        "di",
-        "sono",
-        "paese"
-      ],
-      "correctAnswer": [
-        "Vengo",
-        "dalla",
-        "Spagna"
-      ],
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
       "exerciseType": "multiple_choice",
-      "question": "Come si dice \"Soy italiano\"?",
+      "question": "Come si dice \"Soy argentino\"?",
       "sound": "",
       "options": [
-        "Sono italiano",
-        "Ho italiano",
-        "Faccio italiano",
-        "Vengo italiano"
+        "Sono argentino",
+        "Ho argentino",
+        "Faccio argentino",
+        "Vengo argentino"
       ],
-      "correctAnswer": "Sono italiano",
+      "correctAnswer": "Sono argentino",
       "soundWrongAnswer": "wrong.mp3",
       "soundCorrectAnswer": "correct.mp3"
     },
     {
       "exerciseType": "fill_in_the_blank",
-      "question": "Sono _____ Milano.",
+      "question": "Sono _____ Buenos Aires.",
       "sound": "",
       "options": [
         "di",
@@ -342,18 +308,18 @@
       "question": "Quale frase è corretta?",
       "sound": "",
       "options": [
-        "Sono nata in Francia, a Marsiglia",
-        "Sono nata a Francia, in Marsiglia",
-        "Sono nata di Francia, a Marsiglia",
-        "Sono nata da Francia, a Marsiglia"
+        "Sono nata in Brasile, a San Paolo",
+        "Sono nata a Brasile, in San Paolo",
+        "Sono nata di Brasile, a San Paolo",
+        "Sono nata da Brasile, a San Paolo"
       ],
-      "correctAnswer": "Sono nata in Francia, a Marsiglia",
+      "correctAnswer": "Sono nata in Brasile, a San Paolo",
       "soundWrongAnswer": "wrong.mp3",
       "soundCorrectAnswer": "correct.mp3"
     },
     {
       "exerciseType": "fill_in_the_blank",
-      "question": "Sono nato in Francia, ma sono _____ in Spagna.",
+      "question": "Sono nato in Italia, ma sono _____ negli USA.",
       "sound": "",
       "options": [
         "cresciuto",
@@ -387,15 +353,15 @@
     },
     {
       "exerciseType": "multiple_choice",
-      "question": "Come si dice \"Vivo en Frankfurt\"?",
+      "question": "Come si dice \"Vivo en New York\"?",
       "sound": "",
       "options": [
-        "Vivo a Francoforte",
-        "Vivo in Francoforte",
-        "Vivo di Francoforte",
-        "Vivo da Francoforte"
+        "Vivo a New York",
+        "Vivo in New York",
+        "Vivo di New York",
+        "Vivo da New York"
       ],
-      "correctAnswer": "Vivo a Francoforte",
+      "correctAnswer": "Vivo a New York",
       "soundWrongAnswer": "wrong.mp3",
       "soundCorrectAnswer": "correct.mp3"
     },
@@ -410,43 +376,6 @@
         "da"
       ],
       "correctAnswer": "in",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "multiple_choice_alt",
-      "question": "Per dire dove vivi, usi:",
-      "sound": "",
-      "options": [
-        "Vivo a + città, in + Nazione",
-        "Vivo in + città, a + Nazione",
-        "Vivo di + città, da + Nazione",
-        "Vivo da + città, di + Nazione"
-      ],
-      "correctAnswer": "Vivo a + città, in + Nazione",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "translation",
-      "question": "Vivo en Berlín, en Alemania",
-      "sound": "",
-      "wordOptions": [
-        "Vivo",
-        "a",
-        "Berlino",
-        "in",
-        "Germania",
-        "di",
-        "città"
-      ],
-      "correctAnswer": [
-        "Vivo",
-        "a",
-        "Berlino",
-        "in",
-        "Germania"
-      ],
       "soundWrongAnswer": "wrong.mp3",
       "soundCorrectAnswer": "correct.mp3"
     },
@@ -479,20 +408,6 @@
       "soundCorrectAnswer": "correct.mp3"
     },
     {
-      "exerciseType": "multiple_choice_alt",
-      "question": "Quale frase è corretta?",
-      "sound": "",
-      "options": [
-        "Lavoro come commessa",
-        "Lavoro di commessa",
-        "Lavoro a commessa",
-        "Lavoro per commessa"
-      ],
-      "correctAnswer": "Lavoro come commessa",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
       "exerciseType": "translation",
       "question": "Trabajo por mi cuenta",
       "sound": "",
@@ -512,209 +427,7 @@
       "soundWrongAnswer": "wrong.mp3",
       "soundCorrectAnswer": "correct.mp3"
     },
-    {
-      "exerciseType": "multiple_choice",
-      "question": "Per un uomo non sposato si dice:",
-      "sound": "",
-      "options": [
-        "Celibe",
-        "Nubile",
-        "Sposato",
-        "Fidanzato"
-      ],
-      "correctAnswer": "Celibe",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "fill_in_the_blank",
-      "question": "No, sono _____ (donna non sposata).",
-      "sound": "",
-      "options": [
-        "nubile",
-        "celibe",
-        "single",
-        "libera"
-      ],
-      "correctAnswer": "nubile",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "multiple_choice_alt",
-      "question": "Come si dice \"Convivo con alguien\"?",
-      "sound": "",
-      "options": [
-        "Convivo con qualcuno",
-        "Vivo con qualcuno",
-        "Abito con qualcuno",
-        "Sto con qualcuno"
-      ],
-      "correctAnswer": "Convivo con qualcuno",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "translation",
-      "question": "Tengo una novia",
-      "sound": "",
-      "wordOptions": [
-        "Ho",
-        "una",
-        "fidanzata",
-        "ragazza",
-        "moglie",
-        "compagna"
-      ],
-      "correctAnswer": [
-        "Ho",
-        "una",
-        "fidanzata"
-      ],
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "multiple_choice",
-      "question": "Per persone adulte in una relazione si usa:",
-      "sound": "",
-      "options": [
-        "Compagno/compagna",
-        "Fidanzato/fidanzata",
-        "Ragazzo/ragazza",
-        "Amico/amica"
-      ],
-      "correctAnswer": "Compagno/compagna",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "fill_in_the_blank",
-      "question": "Ho un _____ e una figlia.",
-      "sound": "",
-      "options": [
-        "figlio",
-        "figlia",
-        "bambino",
-        "ragazzo"
-      ],
-      "correctAnswer": "figlio",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "multiple_choice_alt",
-      "question": "Come si chiede se una persona ha figli?",
-      "sound": "",
-      "options": [
-        "Hai figli?",
-        "Sei figli?",
-        "Fai figli?",
-        "Vuoi figli?"
-      ],
-      "correctAnswer": "Hai figli?",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "translation",
-      "question": "Tengo tres hijos",
-      "sound": "",
-      "wordOptions": [
-        "Ho",
-        "tre",
-        "figli",
-        "bambini",
-        "ragazzi",
-        "figlie"
-      ],
-      "correctAnswer": [
-        "Ho",
-        "tre",
-        "figli"
-      ],
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "multiple_choice",
-      "question": "Come si dice \"En mi tiempo libre\"?",
-      "sound": "",
-      "options": [
-        "Nel mio tempo libero",
-        "In mio tempo libero",
-        "Nel tempo mio libero",
-        "A mio tempo libero"
-      ],
-      "correctAnswer": "Nel mio tempo libero",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "fill_in_the_blank",
-      "question": "Nel tempo libero mi piace _____ delle passeggiate.",
-      "sound": "",
-      "options": [
-        "fare",
-        "faccio",
-        "facere",
-        "fatto"
-      ],
-      "correctAnswer": "fare",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "multiple_choice_alt",
-      "question": "Quale struttura è corretta?",
-      "sound": "",
-      "options": [
-        "Mi piace + verbo infinito",
-        "Mi piace + verbo coniugato",
-        "Mi piacciono + verbo infinito",
-        "Mi piace + sostantivo singolare"
-      ],
-      "correctAnswer": "Mi piace + verbo infinito",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "translation",
-      "question": "Me gusta jugar al fútbol",
-      "sound": "",
-      "wordOptions": [
-        "Mi",
-        "piace",
-        "giocare",
-        "a",
-        "calcio",
-        "piacciono",
-        "fare"
-      ],
-      "correctAnswer": [
-        "Mi",
-        "piace",
-        "giocare",
-        "a",
-        "calcio"
-      ],
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "multiple_choice",
-      "question": "Come si dice \"Entre mis hobbies está...\"?",
-      "sound": "",
-      "options": [
-        "Tra i miei hobby c'è...",
-        "Tra miei hobby c'è...",
-        "Dentro i miei hobby c'è...",
-        "Fra il mio hobby c'è..."
-      ],
-      "correctAnswer": "Tra i miei hobby c'è...",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
+   
     {
       "exerciseType": "fill_in_the_blank",
       "question": "_____ di conoscerti!",
@@ -823,48 +536,6 @@
       "soundWrongAnswer": "assets/audio/wrong.mp3",
       "soundCorrectAnswer": "assets/audio/correct.mp3"
     },
-    {
-      "exerciseType": "matching_pairs",
-      "question": "Associa la professione con la struttura corretta",
-      "sound": "",
-      "options": [
-        {
-          "left": "Faccio il/la...",
-          "right": "Faccio il barista"
-        },
-        {
-          "left": "Sono...",
-          "right": "Sono un medico"
-        },
-        {
-          "left": "Lavoro come...",
-          "right": "Lavoro come commessa"
-        },
-        {
-          "left": "Lavoro in proprio",
-          "right": "Sono autonomo"
-        }
-      ],
-      "correctPairs": [
-        {
-          "left": "Faccio il/la...",
-          "right": "Faccio il barista"
-        },
-        {
-          "left": "Sono...",
-          "right": "Sono un medico"
-        },
-        {
-          "left": "Lavoro come...",
-          "right": "Lavoro come commessa"
-        },
-        {
-          "left": "Lavoro in proprio",
-          "right": "Sono autonomo"
-        }
-      ],
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    }
   ]
 }
+
