@@ -187,17 +187,17 @@
     },
     {
       "exerciseType": "multiple_choice",
-      "question": "Come si dice \"Tengo 21 años\"?",
+      "question": "Come si dice \"Tengo 30 años\"?",
       "sound": "",
       "options": [
-        "Sono 21 anni",
-        "Ho 21 anni",
-        "Faccio 21 anni",
-        "Avere 21 anni"
+        "Sono 30 anni",
+        "Ho 30 anni",
+        "Faccio 30 anni",
+        "Avere 30 anni"
       ],
-      "correctAnswer": "Ho 21 anni",
+      "correctAnswer": "Ho 30 anni",
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Trent_anni.mp3"
     },
     {
       "exerciseType": "fill_in_the_blank",
@@ -211,7 +211,7 @@
       ],
       "correctAnswer": "Ho",
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Ho%20venticinque%20anni.mp3"
     },
     {
       "exerciseType": "multiple_choice_alt",
@@ -230,7 +230,7 @@
     {
       "exerciseType": "translation",
       "question": "Tengo 30 años",
-      "sound": "",
+      "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Trent_anni.mp3",
       "wordOptions": [
         "Ho",
         "30",
@@ -259,7 +259,7 @@
       ],
       "correctAnswer": "Vengo da Rosario",
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Da%20Rosario.mp3"
     },
     {
       "exerciseType": "fill_in_the_blank",
@@ -273,12 +273,12 @@
       ],
       "correctAnswer": "dall'",
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Origini_%20Vengo%20dall_Argentina.mp3"
     },
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Soy argentino\"?",
-      "sound": "",
+      "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Soy%20argentino.mp3",
       "options": [
         "Sono argentino",
         "Ho argentino",
@@ -287,7 +287,7 @@
       ],
       "correctAnswer": "Sono argentino",
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Soy%20argentino.mp3"
     },
     {
       "exerciseType": "fill_in_the_blank",
@@ -301,7 +301,7 @@
       ],
       "correctAnswer": "di",
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Di%20Buenos%20Aires.mp3"
     },
     {
       "exerciseType": "multiple_choice_alt",
@@ -315,7 +315,7 @@
       ],
       "correctAnswer": "Sono nata in Brasile, a San Paolo",
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/sononatainbrasileasanpaolo.mp3"
     },
     {
       "exerciseType": "fill_in_the_blank",
@@ -538,4 +538,5 @@
     }
   ]
 }
+
 
