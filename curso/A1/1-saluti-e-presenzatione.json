@@ -50,7 +50,7 @@
       "options": [
         "Buongiorno",
         "Salve",
-        "Ciao",
+        "Ciao"
       ],
       "correctAnswer": "Ciao",
       "soundWrongAnswer": "wrong.mp3",
@@ -869,6 +869,7 @@
   ]
 
 }
+
 
 
 
