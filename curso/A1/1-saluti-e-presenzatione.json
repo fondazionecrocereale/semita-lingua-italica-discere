@@ -143,7 +143,7 @@
       ],
       "correctAnswer": "Arrivederci",
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/buonanotte.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Arrivederci.mp3"
     },
     {
       "exerciseType": "multiple_choice",
@@ -829,6 +829,7 @@
   ]
 
 }
+
 
 
 
