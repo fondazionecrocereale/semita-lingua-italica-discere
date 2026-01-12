@@ -101,7 +101,7 @@
         "Beatrice"
       ],
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/sonobeatrice.mp3"
     },
      {
       "exerciseType": "video_comprehension",
@@ -801,6 +801,7 @@
   ]
 
 }
+
 
 
 
