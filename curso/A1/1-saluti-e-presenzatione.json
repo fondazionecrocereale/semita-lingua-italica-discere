@@ -76,14 +76,13 @@
       "question": "Quale frase è corretta?",
       "sound": "",
       "options": [
-        "Il mio nome è Fabio",
-        "Il nome mio è Fabio",
-        "Mio nome il è Fabio",
-        "È Fabio il nome mio"
+        "Mio nome il è Virgilio",
+        "Il mio nome è Virgilio",
+        "È Virgilio il nome mio"
       ],
-      "correctAnswer": "Il mio nome è Fabio",
+      "correctAnswer": "Il mio nome è Virgilio",
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/ilmionomeevirgilio.mp3"
     },
     {
       "exerciseType": "translation",
@@ -802,6 +801,7 @@
   ]
 
 }
+
 
 
 
