@@ -1,0 +1,407 @@
+{
+  "title": "Tempo e Stagioni",
+  "content": [
+    {
+      "exerciseType": "video_comprehension",
+      "question": "Quale stagione vedi nel video?",
+      "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/stagione-estate.mp4",
+      "options": [
+        "Estate",
+        "Inverno",
+        "Primavera",
+        "Autunno"
+      ],
+      "correctAnswer": "Estate",
+      "soundWrongAnswer": "assets/audio/wrong.mp3",
+      "soundCorrectAnswer": "assets/audio/correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Lunes\"?",
+      "sound": "",
+      "options": [
+        "Lunedì",
+        "Martedì",
+        "Mercoledì",
+        "Domenica"
+      ],
+      "correctAnswer": "Lunedì",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/lunedi.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Martes\"?",
+      "sound": "",
+      "options": [
+        "Martedì",
+        "Lunedì",
+        "Mercoledì",
+        "Giovedì"
+      ],
+      "correctAnswer": "Martedì",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/martedi.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Miércoles\"?",
+      "sound": "",
+      "options": [
+        "Mercoledì",
+        "Martedì",
+        "Giovedì",
+        "Venerdì"
+      ],
+      "correctAnswer": "Mercoledì",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/mercoledi.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Oggi è _____.",
+      "sound": "",
+      "options": [
+        "lunedì",
+        "ieri",
+        "domani",
+        "sempre"
+      ],
+      "correctAnswer": "lunedì",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Jueves\"?",
+      "sound": "",
+      "options": [
+        "Giovedì",
+        "Mercoledì",
+        "Venerdì",
+        "Sabato"
+      ],
+      "correctAnswer": "Giovedì",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/giovedi.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Viernes\"?",
+      "sound": "",
+      "options": [
+        "Venerdì",
+        "Giovedì",
+        "Sabato",
+        "Domenica"
+      ],
+      "correctAnswer": "Venerdì",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/venerdi.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Sábado\"?",
+      "sound": "",
+      "options": [
+        "Sabato",
+        "Venerdì",
+        "Domenica",
+        "Lunedì"
+      ],
+      "correctAnswer": "Sabato",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/sabato.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Domingo\"?",
+      "sound": "",
+      "options": [
+        "Domenica",
+        "Sabato",
+        "Lunedì",
+        "Venerdì"
+      ],
+      "correctAnswer": "Domenica",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/domenica.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Il fine settimana è sabato e _____.",
+      "sound": "",
+      "options": [
+        "domenica",
+        "lunedì",
+        "venerdì",
+        "giovedì"
+      ],
+      "correctAnswer": "domenica",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Enero\"?",
+      "sound": "",
+      "options": [
+        "Gennaio",
+        "Febbraio",
+        "Marzo",
+        "Dicembre"
+      ],
+      "correctAnswer": "Gennaio",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/gennaio.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Febrero\"?",
+      "sound": "",
+      "options": [
+        "Febbraio",
+        "Gennaio",
+        "Marzo",
+        "Aprile"
+      ],
+      "correctAnswer": "Febbraio",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/febbraio.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Mi cumpleaños es en marzo",
+      "sound": "",
+      "wordOptions": [
+        "Il",
+        "mio",
+        "compleanno",
+        "è",
+        "a",
+        "marzo",
+        "gennaio"
+      ],
+      "correctAnswer": [
+        "Il",
+        "mio",
+        "compleanno",
+        "è",
+        "a",
+        "marzo"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Verano\"?",
+      "sound": "",
+      "options": [
+        "Estate",
+        "Inverno",
+        "Primavera",
+        "Autunno"
+      ],
+      "correctAnswer": "Estate",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/estate.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Invierno\"?",
+      "sound": "",
+      "options": [
+        "Inverno",
+        "Estate",
+        "Primavera",
+        "Autunno"
+      ],
+      "correctAnswer": "Inverno",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/inverno.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "In _____ fa molto caldo.",
+      "sound": "",
+      "options": [
+        "estate",
+        "inverno",
+        "autunno",
+        "primavera"
+      ],
+      "correctAnswer": "estate",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Primavera\"?",
+      "sound": "",
+      "options": [
+        "Primavera",
+        "Estate",
+        "Autunno",
+        "Inverno"
+      ],
+      "correctAnswer": "Primavera",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/primavera.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Otoño\"?",
+      "sound": "",
+      "options": [
+        "Autunno",
+        "Estate",
+        "Primavera",
+        "Inverno"
+      ],
+      "correctAnswer": "Autunno",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/autunno.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "En invierno nieva",
+      "sound": "",
+      "wordOptions": [
+        "In",
+        "inverno",
+        "nevica",
+        "piove",
+        "estate",
+        "sole"
+      ],
+      "correctAnswer": [
+        "In",
+        "inverno",
+        "nevica"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "In primavera sbocciano i _____.",
+      "sound": "",
+      "options": [
+        "fiori",
+        "frutti",
+        "alberi",
+        "foglie"
+      ],
+      "correctAnswer": "fiori",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Quale mese ha solo 28 o 29 giorni?",
+      "sound": "",
+      "options": [
+        "Febbraio",
+        "Gennaio",
+        "Marzo",
+        "Aprile"
+      ],
+      "correctAnswer": "Febbraio",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Diciembre\"?",
+      "sound": "",
+      "options": [
+        "Dicembre",
+        "Novembre",
+        "Ottobre",
+        "Gennaio"
+      ],
+      "correctAnswer": "Dicembre",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/dicembre.mp3"
+    },
+    {
+      "exerciseType": "matching_pairs",
+      "question": "Associa il mese con la stagione (emisfero nord)",
+      "sound": "",
+      "options": [
+        {
+          "left": "Gennaio",
+          "right": "Inverno"
+        },
+        {
+          "left": "Aprile",
+          "right": "Primavera"
+        },
+        {
+          "left": "Luglio",
+          "right": "Estate"
+        },
+        {
+          "left": "Ottobre",
+          "right": "Autunno"
+        }
+      ],
+      "correctPairs": [
+        {
+          "left": "Gennaio",
+          "right": "Inverno"
+        },
+        {
+          "left": "Aprile",
+          "right": "Primavera"
+        },
+        {
+          "left": "Luglio",
+          "right": "Estate"
+        },
+        {
+          "left": "Ottobre",
+          "right": "Autunno"
+        }
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Natale è il 25 _____.",
+      "sound": "",
+      "options": [
+        "dicembre",
+        "gennaio",
+        "novembre",
+        "ottobre"
+      ],
+      "correctAnswer": "dicembre",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Hoy hace buen tiempo",
+      "sound": "",
+      "wordOptions": [
+        "Oggi",
+        "fa",
+        "bel",
+        "tempo",
+        "brutto",
+        "ieri"
+      ],
+      "correctAnswer": [
+        "Oggi",
+        "fa",
+        "bel",
+        "tempo"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    }
+  ]
+}
