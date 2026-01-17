@@ -1,0 +1,392 @@
+{
+  "title": "Vestiti",
+  "content": [
+    {
+      "exerciseType": "video_comprehension",
+      "question": "Quale capo di abbigliamento vedi nel video?",
+      "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/vestiti-camicia.mp4",
+      "options": [
+        "Camicia",
+        "Pantaloni",
+        "Giacca",
+        "Scarpe"
+      ],
+      "correctAnswer": "Camicia",
+      "soundWrongAnswer": "assets/audio/wrong.mp3",
+      "soundCorrectAnswer": "assets/audio/correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Camisa\"?",
+      "sound": "",
+      "options": [
+        "Camicia",
+        "Maglietta",
+        "Giacca",
+        "Maglione"
+      ],
+      "correctAnswer": "Camicia",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/camicia.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Pantalones\"?",
+      "sound": "",
+      "options": [
+        "Pantaloni",
+        "Gonna",
+        "Jeans",
+        "Shorts"
+      ],
+      "correctAnswer": "Pantaloni",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/pantaloni.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Zapatos\"?",
+      "sound": "",
+      "options": [
+        "Scarpe",
+        "Calzini",
+        "Stivali",
+        "Sandali"
+      ],
+      "correctAnswer": "Scarpe",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/scarpe.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Indosso una _____ bianca.",
+      "sound": "",
+      "options": [
+        "camicia",
+        "scarpa",
+        "giacca",
+        "gonna"
+      ],
+      "correctAnswer": "camicia",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Falda\"?",
+      "sound": "",
+      "options": [
+        "Gonna",
+        "Vestito",
+        "Pantaloni",
+        "Camicia"
+      ],
+      "correctAnswer": "Gonna",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/gonna.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Vestido\"?",
+      "sound": "",
+      "options": [
+        "Vestito",
+        "Gonna",
+        "Camicia",
+        "Blusa"
+      ],
+      "correctAnswer": "Vestito",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/vestito.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "D'inverno indosso un _____ caldo.",
+      "sound": "",
+      "options": [
+        "maglione",
+        "costume",
+        "sandalo",
+        "shorts"
+      ],
+      "correctAnswer": "maglione",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Chaqueta\"?",
+      "sound": "",
+      "options": [
+        "Giacca",
+        "Cappotto",
+        "Maglione",
+        "Giubbotto"
+      ],
+      "correctAnswer": "Giacca",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/giacca.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Abrigo\"?",
+      "sound": "",
+      "options": [
+        "Cappotto",
+        "Giacca",
+        "Maglione",
+        "Impermeabile"
+      ],
+      "correctAnswer": "Cappotto",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/cappotto.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Llevo jeans azules",
+      "sound": "",
+      "wordOptions": [
+        "Indosso",
+        "jeans",
+        "blu",
+        "pantaloni",
+        "rossi",
+        "camicia"
+      ],
+      "correctAnswer": [
+        "Indosso",
+        "jeans",
+        "blu"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Calcetines\"?",
+      "sound": "",
+      "options": [
+        "Calzini",
+        "Scarpe",
+        "Guanti",
+        "Stivali"
+      ],
+      "correctAnswer": "Calzini",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/calzini.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Metto i _____ prima delle scarpe.",
+      "sound": "",
+      "options": [
+        "calzini",
+        "guanti",
+        "pantaloni",
+        "cappello"
+      ],
+      "correctAnswer": "calzini",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Sombrero\"?",
+      "sound": "",
+      "options": [
+        "Cappello",
+        "Berretto",
+        "Cappuccio",
+        "Corona"
+      ],
+      "correctAnswer": "Cappello",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/cappello.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Bufanda\"?",
+      "sound": "",
+      "options": [
+        "Sciarpa",
+        "Cappello",
+        "Guanti",
+        "Cintura"
+      ],
+      "correctAnswer": "Sciarpa",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/sciarpa.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Me pongo el abrigo",
+      "sound": "",
+      "wordOptions": [
+        "Mi",
+        "metto",
+        "il",
+        "cappotto",
+        "giacca",
+        "scarpe"
+      ],
+      "correctAnswer": [
+        "Mi",
+        "metto",
+        "il",
+        "cappotto"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Guantes\"?",
+      "sound": "",
+      "options": [
+        "Guanti",
+        "Calzini",
+        "Scarpe",
+        "Maniche"
+      ],
+      "correctAnswer": "Guanti",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/guanti.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "In estate indosso i _____ corti.",
+      "sound": "",
+      "options": [
+        "pantaloncini",
+        "stivali",
+        "guanti",
+        "cappotti"
+      ],
+      "correctAnswer": "pantaloncini",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Cinturón\"?",
+      "sound": "",
+      "options": [
+        "Cintura",
+        "Cravatta",
+        "Sciarpa",
+        "Bretelle"
+      ],
+      "correctAnswer": "Cintura",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/cintura.mp3"
+    },
+    {
+      "exerciseType": "matching_pairs",
+      "question": "Associa l'abbigliamento con la stagione",
+      "sound": "",
+      "options": [
+        {
+          "left": "Cappotto",
+          "right": "Inverno"
+        },
+        {
+          "left": "Costume da bagno",
+          "right": "Estate"
+        },
+        {
+          "left": "Giacca leggera",
+          "right": "Primavera"
+        },
+        {
+          "left": "Maglione",
+          "right": "Autunno"
+        }
+      ],
+      "correctPairs": [
+        {
+          "left": "Cappotto",
+          "right": "Inverno"
+        },
+        {
+          "left": "Costume da bagno",
+          "right": "Estate"
+        },
+        {
+          "left": "Giacca leggera",
+          "right": "Primavera"
+        },
+        {
+          "left": "Maglione",
+          "right": "Autunno"
+        }
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Camiseta\"?",
+      "sound": "",
+      "options": [
+        "Maglietta",
+        "Camicia",
+        "Canottiera",
+        "Felpa"
+      ],
+      "correctAnswer": "Maglietta",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/maglietta.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Porto gli _____ da sole quando c'è il sole.",
+      "sound": "",
+      "options": [
+        "occhiali",
+        "orecchini",
+        "anelli",
+        "orologi"
+      ],
+      "correctAnswer": "occhiali",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Necesito zapatos nuevos",
+      "sound": "",
+      "wordOptions": [
+        "Ho",
+        "bisogno",
+        "di",
+        "scarpe",
+        "nuove",
+        "vecchie",
+        "pantaloni"
+      ],
+      "correctAnswer": [
+        "Ho",
+        "bisogno",
+        "di",
+        "scarpe",
+        "nuove"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Cosa indossi per nuotare?",
+      "sound": "",
+      "options": [
+        "Il costume da bagno",
+        "Il cappotto",
+        "Il maglione",
+        "La giacca"
+      ],
+      "correctAnswer": "Il costume da bagno",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    }
+  ]
+}
