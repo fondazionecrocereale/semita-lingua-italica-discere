@@ -1,0 +1,394 @@
+{
+  "title": "Casa e Mobili",
+  "content": [
+    {
+      "exerciseType": "video_comprehension",
+      "question": "Quale stanza vedi nel video?",
+      "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/casa-cucina.mp4",
+      "options": [
+        "Cucina",
+        "Camera da letto",
+        "Bagno",
+        "Soggiorno"
+      ],
+      "correctAnswer": "Cucina",
+      "soundWrongAnswer": "assets/audio/wrong.mp3",
+      "soundCorrectAnswer": "assets/audio/correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Cocina\" (habitación)?",
+      "sound": "",
+      "options": [
+        "Cucina",
+        "Bagno",
+        "Camera",
+        "Sala"
+      ],
+      "correctAnswer": "Cucina",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/cucina.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Baño\"?",
+      "sound": "",
+      "options": [
+        "Bagno",
+        "Cucina",
+        "Camera",
+        "Corridoio"
+      ],
+      "correctAnswer": "Bagno",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/bagno.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Dormitorio\"?",
+      "sound": "",
+      "options": [
+        "Camera da letto",
+        "Soggiorno",
+        "Cucina",
+        "Studio"
+      ],
+      "correctAnswer": "Camera da letto",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/camera-da-letto.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Dormo nella _____ da letto.",
+      "sound": "",
+      "options": [
+        "camera",
+        "cucina",
+        "bagno",
+        "sala"
+      ],
+      "correctAnswer": "camera",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Sala de estar\"?",
+      "sound": "",
+      "options": [
+        "Soggiorno",
+        "Cucina",
+        "Camera",
+        "Giardino"
+      ],
+      "correctAnswer": "Soggiorno",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/soggiorno.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Cama\"?",
+      "sound": "",
+      "options": [
+        "Letto",
+        "Sedia",
+        "Tavolo",
+        "Armadio"
+      ],
+      "correctAnswer": "Letto",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/letto.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Mi siedo sulla _____.",
+      "sound": "",
+      "options": [
+        "sedia",
+        "lampada",
+        "finestra",
+        "porta"
+      ],
+      "correctAnswer": "sedia",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Mesa\"?",
+      "sound": "",
+      "options": [
+        "Tavolo",
+        "Sedia",
+        "Scaffale",
+        "Scrivania"
+      ],
+      "correctAnswer": "Tavolo",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/tavolo.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Silla\"?",
+      "sound": "",
+      "options": [
+        "Sedia",
+        "Tavolo",
+        "Divano",
+        "Poltrona"
+      ],
+      "correctAnswer": "Sedia",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/sedia.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "El sofá es cómodo",
+      "sound": "",
+      "wordOptions": [
+        "Il",
+        "divano",
+        "è",
+        "comodo",
+        "letto",
+        "grande"
+      ],
+      "correctAnswer": [
+        "Il",
+        "divano",
+        "è",
+        "comodo"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Armario\"?",
+      "sound": "",
+      "options": [
+        "Armadio",
+        "Cassetto",
+        "Scaffale",
+        "Libreria"
+      ],
+      "correctAnswer": "Armadio",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/armadio.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "I vestiti sono nell'_____.",
+      "sound": "",
+      "options": [
+        "armadio",
+        "tavolo",
+        "specchio",
+        "lampada"
+      ],
+      "correctAnswer": "armadio",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Ventana\"?",
+      "sound": "",
+      "options": [
+        "Finestra",
+        "Porta",
+        "Muro",
+        "Tetto"
+      ],
+      "correctAnswer": "Finestra",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/finestra.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Puerta\"?",
+      "sound": "",
+      "options": [
+        "Porta",
+        "Finestra",
+        "Parete",
+        "Pavimento"
+      ],
+      "correctAnswer": "Porta",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/porta.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "La cocina es grande",
+      "sound": "",
+      "wordOptions": [
+        "La",
+        "cucina",
+        "è",
+        "grande",
+        "piccola",
+        "camera"
+      ],
+      "correctAnswer": [
+        "La",
+        "cucina",
+        "è",
+        "grande"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Guardo la TV nel _____.",
+      "sound": "",
+      "options": [
+        "soggiorno",
+        "bagno",
+        "armadio",
+        "giardino"
+      ],
+      "correctAnswer": "soggiorno",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Espejo\"?",
+      "sound": "",
+      "options": [
+        "Specchio",
+        "Finestra",
+        "Quadro",
+        "Lampada"
+      ],
+      "correctAnswer": "Specchio",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/specchio.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Lámpara\"?",
+      "sound": "",
+      "options": [
+        "Lampada",
+        "Luce",
+        "Candela",
+        "Interruttore"
+      ],
+      "correctAnswer": "Lampada",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/lampada.mp3"
+    },
+    {
+      "exerciseType": "matching_pairs",
+      "question": "Associa la stanza con l'oggetto",
+      "sound": "",
+      "options": [
+        {
+          "left": "Camera da letto",
+          "right": "Letto"
+        },
+        {
+          "left": "Cucina",
+          "right": "Frigorifero"
+        },
+        {
+          "left": "Bagno",
+          "right": "Doccia"
+        },
+        {
+          "left": "Soggiorno",
+          "right": "Divano"
+        }
+      ],
+      "correctPairs": [
+        {
+          "left": "Camera da letto",
+          "right": "Letto"
+        },
+        {
+          "left": "Cucina",
+          "right": "Frigorifero"
+        },
+        {
+          "left": "Bagno",
+          "right": "Doccia"
+        },
+        {
+          "left": "Soggiorno",
+          "right": "Divano"
+        }
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Mi lavo le mani nel _____.",
+      "sound": "",
+      "options": [
+        "bagno",
+        "soggiorno",
+        "camera",
+        "giardino"
+      ],
+      "correctAnswer": "bagno",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Mi casa tiene tres habitaciones",
+      "sound": "",
+      "wordOptions": [
+        "La",
+        "mia",
+        "casa",
+        "ha",
+        "tre",
+        "camere",
+        "cucina"
+      ],
+      "correctAnswer": [
+        "La",
+        "mia",
+        "casa",
+        "ha",
+        "tre",
+        "camere"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Refrigerador\"?",
+      "sound": "",
+      "options": [
+        "Frigorifero",
+        "Forno",
+        "Lavastoviglie",
+        "Microonde"
+      ],
+      "correctAnswer": "Frigorifero",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/frigorifero.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Cucino sul _____ in cucina.",
+      "sound": "",
+      "options": [
+        "fornello",
+        "tavolo",
+        "divano",
+        "letto"
+      ],
+      "correctAnswer": "fornello",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    }
+  ]
+}
