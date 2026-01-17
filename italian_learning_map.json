@@ -116,7 +116,7 @@
           "difficulty": 1,
           "estimatedTime": "6 min",
           "category": "Vocabolario",
-          "exercisePath": "assets/curso/A1/3-colori-base.json"
+          "exercisePath": "https://raw.githubusercontent.com/fondazionecrocereale/semita-lingua-italica-discere/refs/heads/main/curso/A1/3-colori-base.json"
         },
         {
           "id": 4,
@@ -147,7 +147,7 @@
           "difficulty": 2,
           "estimatedTime": "7 min",
           "category": "Vocabolario",
-          "exercisePath": "assets/curso/A1/4-famiglia.json"
+          "exercisePath": "https://raw.githubusercontent.com/fondazionecrocereale/semita-lingua-italica-discere/refs/heads/main/curso/A1/4-famiglia.json"
         },
         {
           "id": 5,
@@ -178,7 +178,7 @@
           "difficulty": 2,
           "estimatedTime": "8 min",
           "category": "Vocabolario",
-          "exercisePath": "assets/curso/A1/5-cibo-e-bevande.json"
+          "exercisePath": "https://raw.githubusercontent.com/fondazionecrocereale/semita-lingua-italica-discere/refs/heads/main/curso/A1/5-cibo-e-bevande.json"
         },
         {
           "id": 6,
@@ -209,7 +209,7 @@
           "difficulty": 2,
           "estimatedTime": "6 min",
           "category": "Vocabolario",
-          "exercisePath": "assets/curso/A1/6-animali-domestici.json"
+          "exercisePath": "https://raw.githubusercontent.com/fondazionecrocereale/semita-lingua-italica-discere/refs/heads/main/curso/A1/6-animali-domestici.json"
         },
         {
           "id": 7,
@@ -240,7 +240,7 @@
           "difficulty": 3,
           "estimatedTime": "9 min",
           "category": "Vocabolario",
-          "exercisePath": "assets/curso/A1/7-casa-e-mobili.json"
+          "exercisePath": "https://raw.githubusercontent.com/fondazionecrocereale/semita-lingua-italica-discere/refs/heads/main/curso/A1/7-casa-e-mobili.json"
         },
         {
           "id": 8,
@@ -271,7 +271,7 @@
           "difficulty": 3,
           "estimatedTime": "7 min",
           "category": "Vocabolario",
-          "exercisePath": "assets/curso/A1/8-vestiti.json"
+          "exercisePath": "https://raw.githubusercontent.com/fondazionecrocereale/semita-lingua-italica-discere/refs/heads/main/curso/A1/8-vestiti.json"
         },
         {
           "id": 9,
@@ -302,7 +302,7 @@
           "difficulty": 3,
           "estimatedTime": "8 min",
           "category": "Vocabolario",
-          "exercisePath": "assets/curso/A1/9-tempo-e-stagioni.json"
+          "exercisePath": "https://raw.githubusercontent.com/fondazionecrocereale/semita-lingua-italica-discere/refs/heads/main/curso/A1/9-tempo-e-stagioni.json"
         },
         {
           "id": 10,
