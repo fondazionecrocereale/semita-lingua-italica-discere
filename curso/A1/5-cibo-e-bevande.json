@@ -1,0 +1,390 @@
+{
+  "title": "Cibo e Bevande",
+  "content": [
+    {
+      "exerciseType": "video_comprehension",
+      "question": "Cosa vedi nel video?",
+      "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/cibo-pizza.mp4",
+      "options": [
+        "Pizza",
+        "Pasta",
+        "Pane",
+        "Gelato"
+      ],
+      "correctAnswer": "Pizza",
+      "soundWrongAnswer": "assets/audio/wrong.mp3",
+      "soundCorrectAnswer": "assets/audio/correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Pan\"?",
+      "sound": "",
+      "options": [
+        "Pane",
+        "Pizza",
+        "Pasta",
+        "Pesce"
+      ],
+      "correctAnswer": "Pane",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/pane.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Agua\"?",
+      "sound": "",
+      "options": [
+        "Acqua",
+        "Vino",
+        "Latte",
+        "Succo"
+      ],
+      "correctAnswer": "Acqua",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/acqua.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Leche\"?",
+      "sound": "",
+      "options": [
+        "Latte",
+        "Acqua",
+        "Caffè",
+        "Tè"
+      ],
+      "correctAnswer": "Latte",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/latte.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "La mattina bevo il _____.",
+      "sound": "",
+      "options": [
+        "caffè",
+        "vino",
+        "birra",
+        "succo"
+      ],
+      "correctAnswer": "caffè",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Café\"?",
+      "sound": "",
+      "options": [
+        "Caffè",
+        "Tè",
+        "Latte",
+        "Cioccolata"
+      ],
+      "correctAnswer": "Caffè",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/caffe.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Carne\"?",
+      "sound": "",
+      "options": [
+        "Carne",
+        "Pesce",
+        "Pollo",
+        "Verdura"
+      ],
+      "correctAnswer": "Carne",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/carne.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Pescado\"?",
+      "sound": "",
+      "options": [
+        "Pesce",
+        "Carne",
+        "Pollo",
+        "Uova"
+      ],
+      "correctAnswer": "Pesce",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/pesce.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Mi piace mangiare la _____ con il pomodoro.",
+      "sound": "",
+      "options": [
+        "pasta",
+        "carne",
+        "pizza",
+        "insalata"
+      ],
+      "correctAnswer": "pasta",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Queso\"?",
+      "sound": "",
+      "options": [
+        "Formaggio",
+        "Burro",
+        "Latte",
+        "Yogurt"
+      ],
+      "correctAnswer": "Formaggio",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/formaggio.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Huevos\"?",
+      "sound": "",
+      "options": [
+        "Uova",
+        "Pane",
+        "Burro",
+        "Latte"
+      ],
+      "correctAnswer": "Uova",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/uova.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Quiero una pizza",
+      "sound": "",
+      "wordOptions": [
+        "Voglio",
+        "una",
+        "pizza",
+        "pasta",
+        "pane",
+        "gelato"
+      ],
+      "correctAnswer": [
+        "Voglio",
+        "una",
+        "pizza"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Manzana\"?",
+      "sound": "",
+      "options": [
+        "Mela",
+        "Pera",
+        "Banana",
+        "Arancia"
+      ],
+      "correctAnswer": "Mela",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/mela.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Naranja\" (fruta)?",
+      "sound": "",
+      "options": [
+        "Arancia",
+        "Limone",
+        "Mela",
+        "Pesca"
+      ],
+      "correctAnswer": "Arancia",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/arancia.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "La _____ è gialla.",
+      "sound": "",
+      "options": [
+        "banana",
+        "mela",
+        "arancia",
+        "ciliegia"
+      ],
+      "correctAnswer": "banana",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Tomate\"?",
+      "sound": "",
+      "options": [
+        "Pomodoro",
+        "Patata",
+        "Carota",
+        "Insalata"
+      ],
+      "correctAnswer": "Pomodoro",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/pomodoro.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Vino\"?",
+      "sound": "",
+      "options": [
+        "Vino",
+        "Birra",
+        "Acqua",
+        "Succo"
+      ],
+      "correctAnswer": "Vino",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/vino.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Me gusta el helado",
+      "sound": "",
+      "wordOptions": [
+        "Mi",
+        "piace",
+        "il",
+        "gelato",
+        "pizza",
+        "caffè"
+      ],
+      "correctAnswer": [
+        "Mi",
+        "piace",
+        "il",
+        "gelato"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Vorrei un _____ d'arancia, per favore.",
+      "sound": "",
+      "options": [
+        "succo",
+        "caffè",
+        "vino",
+        "latte"
+      ],
+      "correctAnswer": "succo",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Ensalada\"?",
+      "sound": "",
+      "options": [
+        "Insalata",
+        "Verdura",
+        "Frutta",
+        "Minestra"
+      ],
+      "correctAnswer": "Insalata",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/insalata.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Azúcar\"?",
+      "sound": "",
+      "options": [
+        "Zucchero",
+        "Sale",
+        "Pepe",
+        "Olio"
+      ],
+      "correctAnswer": "Zucchero",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/zucchero.mp3"
+    },
+    {
+      "exerciseType": "matching_pairs",
+      "question": "Associa la bevanda con il momento della giornata",
+      "sound": "",
+      "options": [
+        {
+          "left": "Caffè",
+          "right": "Mattina"
+        },
+        {
+          "left": "Tè",
+          "right": "Pomeriggio"
+        },
+        {
+          "left": "Vino",
+          "right": "Cena"
+        },
+        {
+          "left": "Acqua",
+          "right": "Sempre"
+        }
+      ],
+      "correctPairs": [
+        {
+          "left": "Caffè",
+          "right": "Mattina"
+        },
+        {
+          "left": "Tè",
+          "right": "Pomeriggio"
+        },
+        {
+          "left": "Vino",
+          "right": "Cena"
+        },
+        {
+          "left": "Acqua",
+          "right": "Sempre"
+        }
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "A colazione mangio pane e _____.",
+      "sound": "",
+      "options": [
+        "marmellata",
+        "pizza",
+        "pasta",
+        "riso"
+      ],
+      "correctAnswer": "marmellata",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "La comida está deliciosa",
+      "sound": "",
+      "wordOptions": [
+        "Il",
+        "cibo",
+        "è",
+        "delizioso",
+        "buono",
+        "male"
+      ],
+      "correctAnswer": [
+        "Il",
+        "cibo",
+        "è",
+        "delizioso"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    }
+  ]
+}
