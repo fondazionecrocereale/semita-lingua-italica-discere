@@ -1,0 +1,398 @@
+{
+  "title": "Famiglia",
+  "content": [
+    {
+      "exerciseType": "video_comprehension",
+      "question": "Chi vedi nel video?",
+      "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/famiglia-madre.mp4",
+      "options": [
+        "Padre",
+        "Madre",
+        "Fratello",
+        "Sorella"
+      ],
+      "correctAnswer": "Madre",
+      "soundWrongAnswer": "assets/audio/wrong.mp3",
+      "soundCorrectAnswer": "assets/audio/correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Padre\"?",
+      "sound": "",
+      "options": [
+        "Madre",
+        "Padre",
+        "Fratello",
+        "Nonno"
+      ],
+      "correctAnswer": "Padre",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/padre.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Madre\"?",
+      "sound": "",
+      "options": [
+        "Padre",
+        "Madre",
+        "Sorella",
+        "Zia"
+      ],
+      "correctAnswer": "Madre",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/madre.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Hermano\"?",
+      "sound": "",
+      "options": [
+        "Fratello",
+        "Sorella",
+        "Cugino",
+        "Nipote"
+      ],
+      "correctAnswer": "Fratello",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/fratello.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Hermana\"?",
+      "sound": "",
+      "options": [
+        "Fratello",
+        "Sorella",
+        "Cugina",
+        "Zia"
+      ],
+      "correctAnswer": "Sorella",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/sorella.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Mio _____ si chiama Roberto.",
+      "sound": "",
+      "options": [
+        "padre",
+        "madre",
+        "sorella",
+        "zia"
+      ],
+      "correctAnswer": "padre",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Abuelo\"?",
+      "sound": "",
+      "options": [
+        "Nonno",
+        "Padre",
+        "Zio",
+        "Nipote"
+      ],
+      "correctAnswer": "Nonno",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/nonno.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Abuela\"?",
+      "sound": "",
+      "options": [
+        "Nonna",
+        "Madre",
+        "Zia",
+        "Sorella"
+      ],
+      "correctAnswer": "Nonna",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/nonna.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Mia _____ si chiama Anna.",
+      "sound": "",
+      "options": [
+        "sorella",
+        "fratello",
+        "nonno",
+        "padre"
+      ],
+      "correctAnswer": "sorella",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Hijo\"?",
+      "sound": "",
+      "options": [
+        "Figlio",
+        "Padre",
+        "Fratello",
+        "Nipote"
+      ],
+      "correctAnswer": "Figlio",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/figlio.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Hija\"?",
+      "sound": "",
+      "options": [
+        "Figlia",
+        "Sorella",
+        "Nipote",
+        "Cugina"
+      ],
+      "correctAnswer": "Figlia",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/figlia.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Mi hermano tiene 15 años",
+      "sound": "",
+      "wordOptions": [
+        "Mio",
+        "fratello",
+        "ha",
+        "15",
+        "anni",
+        "padre",
+        "sorella"
+      ],
+      "correctAnswer": [
+        "Mio",
+        "fratello",
+        "ha",
+        "15",
+        "anni"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Tío\"?",
+      "sound": "",
+      "options": [
+        "Zio",
+        "Padre",
+        "Nonno",
+        "Cugino"
+      ],
+      "correctAnswer": "Zio",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/zio.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Tía\"?",
+      "sound": "",
+      "options": [
+        "Zia",
+        "Madre",
+        "Nonna",
+        "Cugina"
+      ],
+      "correctAnswer": "Zia",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/zia.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "I miei _____ sono molto gentili.",
+      "sound": "",
+      "options": [
+        "genitori",
+        "fratelli",
+        "figli",
+        "cugini"
+      ],
+      "correctAnswer": "genitori",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Primo\" (parente)?",
+      "sound": "",
+      "options": [
+        "Cugino",
+        "Fratello",
+        "Nipote",
+        "Zio"
+      ],
+      "correctAnswer": "Cugino",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/cugino.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Prima\" (parente)?",
+      "sound": "",
+      "options": [
+        "Cugina",
+        "Sorella",
+        "Nipote",
+        "Zia"
+      ],
+      "correctAnswer": "Cugina",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/cugina.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Mis abuelos viven en Roma",
+      "sound": "",
+      "wordOptions": [
+        "I",
+        "miei",
+        "nonni",
+        "vivono",
+        "a",
+        "Roma",
+        "genitori"
+      ],
+      "correctAnswer": [
+        "I",
+        "miei",
+        "nonni",
+        "vivono",
+        "a",
+        "Roma"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Ho due _____: Marco e Luca.",
+      "sound": "",
+      "options": [
+        "fratelli",
+        "sorelle",
+        "genitori",
+        "cugini"
+      ],
+      "correctAnswer": "fratelli",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Esposo\"?",
+      "sound": "",
+      "options": [
+        "Marito",
+        "Padre",
+        "Fratello",
+        "Figlio"
+      ],
+      "correctAnswer": "Marito",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/marito.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Esposa\"?",
+      "sound": "",
+      "options": [
+        "Moglie",
+        "Madre",
+        "Sorella",
+        "Figlia"
+      ],
+      "correctAnswer": "Moglie",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/moglie.mp3"
+    },
+    {
+      "exerciseType": "matching_pairs",
+      "question": "Associa i membri della famiglia",
+      "sound": "",
+      "options": [
+        {
+          "left": "Padre + Madre",
+          "right": "Genitori"
+        },
+        {
+          "left": "Nonno + Nonna",
+          "right": "Nonni"
+        },
+        {
+          "left": "Fratello + Sorella",
+          "right": "Fratelli"
+        },
+        {
+          "left": "Zio + Zia",
+          "right": "Zii"
+        }
+      ],
+      "correctPairs": [
+        {
+          "left": "Padre + Madre",
+          "right": "Genitori"
+        },
+        {
+          "left": "Nonno + Nonna",
+          "right": "Nonni"
+        },
+        {
+          "left": "Fratello + Sorella",
+          "right": "Fratelli"
+        },
+        {
+          "left": "Zio + Zia",
+          "right": "Zii"
+        }
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Mi familia es grande",
+      "sound": "",
+      "wordOptions": [
+        "La",
+        "mia",
+        "famiglia",
+        "è",
+        "grande",
+        "piccola",
+        "casa"
+      ],
+      "correctAnswer": [
+        "La",
+        "mia",
+        "famiglia",
+        "è",
+        "grande"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "La _____ di mio padre è mia nonna.",
+      "sound": "",
+      "options": [
+        "madre",
+        "sorella",
+        "moglie",
+        "figlia"
+      ],
+      "correctAnswer": "madre",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    }
+  ]
+}
