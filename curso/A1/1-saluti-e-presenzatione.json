@@ -521,22 +521,9 @@
       ],
       "soundWrongAnswer": "wrong.mp3",
       "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "video_comprehension",
-      "question": "Nel video, come risponde Anna?",
-      "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/a1_anna_bene.mp4",
-      "options": [
-        "Ciao!",
-        "Bene, grazie! E tu?",
-        "Piacere!",
-        "Mi chiamo Anna"
-      ],
-      "correctAnswer": "Bene, grazie! E tu?",
-      "soundWrongAnswer": "assets/audio/wrong.mp3",
-      "soundCorrectAnswer": "assets/audio/correct.mp3"
     }
   ]
 }
+
 
 
