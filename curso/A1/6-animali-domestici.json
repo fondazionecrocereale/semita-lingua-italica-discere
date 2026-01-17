@@ -1,0 +1,351 @@
+{
+  "title": "Animali Domestici",
+  "content": [
+    {
+      "exerciseType": "video_comprehension",
+      "question": "Quale animale vedi nel video?",
+      "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/animale-cane.mp4",
+      "options": [
+        "Cane",
+        "Gatto",
+        "Uccello",
+        "Pesce"
+      ],
+      "correctAnswer": "Cane",
+      "soundWrongAnswer": "assets/audio/wrong.mp3",
+      "soundCorrectAnswer": "assets/audio/correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Perro\"?",
+      "sound": "",
+      "options": [
+        "Cane",
+        "Gatto",
+        "Coniglio",
+        "Cavallo"
+      ],
+      "correctAnswer": "Cane",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/cane.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Gato\"?",
+      "sound": "",
+      "options": [
+        "Gatto",
+        "Cane",
+        "Topo",
+        "Uccello"
+      ],
+      "correctAnswer": "Gatto",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/gatto.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Il mio _____ si chiama Max.",
+      "sound": "",
+      "options": [
+        "cane",
+        "gatto",
+        "pesce",
+        "uccello"
+      ],
+      "correctAnswer": "cane",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Pájaro\"?",
+      "sound": "",
+      "options": [
+        "Uccello",
+        "Pesce",
+        "Farfalla",
+        "Insetto"
+      ],
+      "correctAnswer": "Uccello",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/uccello.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Pez\"?",
+      "sound": "",
+      "options": [
+        "Pesce",
+        "Uccello",
+        "Gatto",
+        "Tartaruga"
+      ],
+      "correctAnswer": "Pesce",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/pesce-animale.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Conejo\"?",
+      "sound": "",
+      "options": [
+        "Coniglio",
+        "Topo",
+        "Gatto",
+        "Criceto"
+      ],
+      "correctAnswer": "Coniglio",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/coniglio.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Il _____ canta la mattina.",
+      "sound": "",
+      "options": [
+        "uccello",
+        "cane",
+        "gatto",
+        "pesce"
+      ],
+      "correctAnswer": "uccello",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Come si dice \"Tortuga\"?",
+      "sound": "",
+      "options": [
+        "Tartaruga",
+        "Lucertola",
+        "Serpente",
+        "Rana"
+      ],
+      "correctAnswer": "Tartaruga",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/tartaruga.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Tengo un gato negro",
+      "sound": "",
+      "wordOptions": [
+        "Ho",
+        "un",
+        "gatto",
+        "nero",
+        "cane",
+        "bianco"
+      ],
+      "correctAnswer": [
+        "Ho",
+        "un",
+        "gatto",
+        "nero"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Hámster\"?",
+      "sound": "",
+      "options": [
+        "Criceto",
+        "Topo",
+        "Coniglio",
+        "Scoiattolo"
+      ],
+      "correctAnswer": "Criceto",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/criceto.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "I _____ nuotano nell'acquario.",
+      "sound": "",
+      "options": [
+        "pesci",
+        "gatti",
+        "uccelli",
+        "cani"
+      ],
+      "correctAnswer": "pesci",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Quale animale abbaia?",
+      "sound": "",
+      "options": [
+        "Il cane",
+        "Il gatto",
+        "L'uccello",
+        "Il pesce"
+      ],
+      "correctAnswer": "Il cane",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Quale animale miagola?",
+      "sound": "",
+      "options": [
+        "Il gatto",
+        "Il cane",
+        "Il coniglio",
+        "Il criceto"
+      ],
+      "correctAnswer": "Il gatto",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Mi perro es muy juguetón",
+      "sound": "",
+      "wordOptions": [
+        "Il",
+        "mio",
+        "cane",
+        "è",
+        "molto",
+        "giocherellone",
+        "gatto"
+      ],
+      "correctAnswer": [
+        "Il",
+        "mio",
+        "cane",
+        "è",
+        "molto",
+        "giocherellone"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "Il _____ mangia le carote.",
+      "sound": "",
+      "options": [
+        "coniglio",
+        "cane",
+        "gatto",
+        "pesce"
+      ],
+      "correctAnswer": "coniglio",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice",
+      "question": "Come si dice \"Caballo\"?",
+      "sound": "",
+      "options": [
+        "Cavallo",
+        "Mucca",
+        "Pecora",
+        "Capra"
+      ],
+      "correctAnswer": "Cavallo",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/cavallo.mp3"
+    },
+    {
+      "exerciseType": "multiple_choice_alt",
+      "question": "Cosa mangia il cane?",
+      "sound": "",
+      "options": [
+        "Carne e crocchette",
+        "Semi",
+        "Pesce",
+        "Insetti"
+      ],
+      "correctAnswer": "Carne e crocchette",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "matching_pairs",
+      "question": "Associa l'animale con la sua caratteristica",
+      "sound": "",
+      "options": [
+        {
+          "left": "Cane",
+          "right": "Abbaia"
+        },
+        {
+          "left": "Gatto",
+          "right": "Miagola"
+        },
+        {
+          "left": "Uccello",
+          "right": "Vola"
+        },
+        {
+          "left": "Pesce",
+          "right": "Nuota"
+        }
+      ],
+      "correctPairs": [
+        {
+          "left": "Cane",
+          "right": "Abbaia"
+        },
+        {
+          "left": "Gatto",
+          "right": "Miagola"
+        },
+        {
+          "left": "Uccello",
+          "right": "Vola"
+        },
+        {
+          "left": "Pesce",
+          "right": "Nuota"
+        }
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "fill_in_the_blank",
+      "question": "La _____ vive lentamente.",
+      "sound": "",
+      "options": [
+        "tartaruga",
+        "farfalla",
+        "ape",
+        "mosca"
+      ],
+      "correctAnswer": "tartaruga",
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    },
+    {
+      "exerciseType": "translation",
+      "question": "Los pájaros cantan",
+      "sound": "",
+      "wordOptions": [
+        "Gli",
+        "uccelli",
+        "cantano",
+        "volano",
+        "gatti",
+        "cani"
+      ],
+      "correctAnswer": [
+        "Gli",
+        "uccelli",
+        "cantano"
+      ],
+      "soundWrongAnswer": "wrong.mp3",
+      "soundCorrectAnswer": "correct.mp3"
+    }
+  ]
+}
