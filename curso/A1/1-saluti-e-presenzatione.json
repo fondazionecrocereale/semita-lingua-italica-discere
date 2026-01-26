@@ -4,6 +4,9 @@
     {
       "exerciseType": "video_comprehension",
       "question": "Como se dice \"Buen dia\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/grok-video-772797c4-01f7-4abb-8935-a022ba61e495.mp4",
       "options": [
         "Buon Pomeriggio",
@@ -19,6 +22,9 @@
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Buenas Tardes\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Buon Pomeriggio",
@@ -33,6 +39,9 @@
     {
       "exerciseType": "video_comprehension",
       "question": "Nel video, cosa dice Dante per presentarsi?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/grok-video-349945d1-cd69-41c5-9291-23cdcb72c982.mp4",
       "options": [
         "Ciao! Mi chiamo Dante.",
@@ -47,6 +56,9 @@
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Hola\"(informal)?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Buongiorno",
@@ -60,6 +72,9 @@
     {
       "exerciseType": "multiple_choice_alt",
       "question": "Come si dice \"Buenas Noches\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Buon Pomeriggio",
@@ -74,6 +89,9 @@
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Me llamo María\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Il mio nome è Maria",
@@ -88,6 +106,9 @@
     {
       "exerciseType": "fill_in_the_blank",
       "question": "_____ chiamo Luca.",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Mi",
@@ -102,6 +123,9 @@
     {
       "exerciseType": "multiple_choice_alt",
       "question": "Quale frase è corretta?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Mio nome il è Virgilio",
@@ -115,6 +139,9 @@
     {
       "exerciseType": "translation",
       "question": "Soy Beatriz",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/sonobeatrice.mp3",
       "wordOptions": [
         "Sono",
@@ -134,6 +161,9 @@
     {
       "exerciseType": "video_comprehension",
       "question": "Como se dice \"Soy Beatriz\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/grok-video-a29e0bd3-e31d-4607-90bd-9cc42bba11aa.mp4",
       "options": [
         "Mi chiamo Beatrice",
@@ -148,6 +178,9 @@
     {
       "exerciseType": "multiple_choice_alt",
       "question": "Come si dice \"Adios\"(formal)?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Addio",
@@ -162,6 +195,9 @@
     {
       "exerciseType": "fill_in_the_blank",
       "question": "_____ ti chiami?.",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Cose",
@@ -175,6 +211,9 @@
     {
       "exerciseType": "multiple_choice_alt",
       "question": "Come si dice \"Adios\"(informal)?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Addio",
@@ -189,6 +228,9 @@
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Tengo 30 años\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Sono 30 anni",
@@ -203,6 +245,9 @@
     {
       "exerciseType": "fill_in_the_blank",
       "question": "_____ 25 anni.",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Ho",
@@ -217,6 +262,9 @@
     {
       "exerciseType": "multiple_choice_alt",
       "question": "Come si chiede l'età?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Quanti anni hai?",
@@ -231,6 +279,9 @@
     {
       "exerciseType": "translation",
       "question": "Tengo 30 años",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Trent_anni.mp3",
       "wordOptions": [
         "Ho",
@@ -251,6 +302,9 @@
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Vengo de Rosario\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Vengo da Rosario",
@@ -265,6 +319,9 @@
     {
       "exerciseType": "fill_in_the_blank",
       "question": "Vengo _____ Argentina.",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "dall'",
@@ -279,6 +336,9 @@
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Soy argentino\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Soy%20argentino.mp3",
       "options": [
         "Sono argentino",
@@ -293,6 +353,9 @@
     {
       "exerciseType": "fill_in_the_blank",
       "question": "Sono _____ Buenos Aires.",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "di",
@@ -307,6 +370,9 @@
     {
       "exerciseType": "multiple_choice_alt",
       "question": "Quale frase è corretta?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Sono nata in Brasile, a San Paolo",
@@ -321,6 +387,9 @@
     {
       "exerciseType": "fill_in_the_blank",
       "question": "Sono nato in Italia, ma sono _____ negli USA.",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "cresciuto",
@@ -335,6 +404,9 @@
     {
       "exerciseType": "translation",
       "question": "Soy de Milán",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "wordOptions": [
         "Sono",
@@ -355,6 +427,9 @@
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Vivo en New York\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Vivo a New York",
@@ -369,6 +444,9 @@
     {
       "exerciseType": "fill_in_the_blank",
       "question": "Vivo a Roma, _____ Italia.",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "in",
@@ -383,6 +461,9 @@
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Soy barista\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Faccio il barista",
@@ -397,6 +478,9 @@
     {
       "exerciseType": "fill_in_the_blank",
       "question": "_____ un medico.",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Sono",
@@ -411,6 +495,9 @@
     {
       "exerciseType": "translation",
       "question": "Trabajo por mi cuenta",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "wordOptions": [
         "Lavoro",
@@ -432,6 +519,9 @@
     {
       "exerciseType": "fill_in_the_blank",
       "question": "_____ di conoscerti!",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Piacere",
@@ -446,6 +536,9 @@
     {
       "exerciseType": "multiple_choice_alt",
       "question": "Come rispondi a \"Piacere di conoscerti\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Piacere mio!",
@@ -460,6 +553,9 @@
     {
       "exerciseType": "translation",
       "question": "El placer es todo mío",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "wordOptions": [
         "Il",
@@ -483,6 +579,9 @@
     {
       "exerciseType": "matching_pairs",
       "question": "Associa la domanda con la risposta corretta",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         {
@@ -525,6 +624,7 @@
     }
   ]
 }
+
 
 
 
