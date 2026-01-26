@@ -19,6 +19,35 @@
       "soundCorrectAnswer": "assets/audio/correct.mp3",
       "videoAuthor": "Victoria 🇦🇷"
     },
+           {
+            "exerciseType": "long_fill_in_the_blank",
+            "question": "Dante si smarrisce nella selva oscura.",
+            "question_es": "Dante se pierde en la selva oscura.",
+            "question_en": "Dante gets lost in the dark forest.",
+            "question_pr": "Dante se perde na selva escura.",
+            "sound": "",
+            "wordOptions": [
+                "Dante",
+                "si",
+                "smarrisce",
+                "nella",
+                "selva",
+                "oscura",
+                "cammina",
+                "corre",
+                "luce"
+            ],
+            "correctAnswer": [
+                "Dante",
+                "si",
+                "smarrisce",
+                "nella",
+                "selva",
+                "oscura"
+            ],
+            "soundWrongAnswer": "assets/audio/wrong.mp3",
+            "soundCorrectAnswer": "assets/audio/correct.mp3"
+        },
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Buenas Tardes\"?",
@@ -624,6 +653,7 @@
     }
   ]
 }
+
 
 
 
