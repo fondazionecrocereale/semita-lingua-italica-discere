@@ -4,6 +4,9 @@
     {
       "exerciseType": "video_comprehension",
       "question": "Che colore vedi nel video?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/colore-rosso.mp4",
       "options": [
         "Blu",
@@ -18,6 +21,9 @@
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Azul\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Rosso",
@@ -32,6 +38,9 @@
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Verde\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Rosso",
@@ -46,6 +55,9 @@
     {
       "exerciseType": "multiple_choice_alt",
       "question": "Come si dice \"Amarillo\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Giallo",
@@ -60,6 +72,9 @@
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Negro\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Bianco",
@@ -74,6 +89,9 @@
     {
       "exerciseType": "multiple_choice_alt",
       "question": "Come si dice \"Blanco\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Nero",
@@ -88,6 +106,9 @@
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Naranja\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Rosa",
@@ -102,6 +123,9 @@
     {
       "exerciseType": "fill_in_the_blank",
       "question": "Il cielo è _____.",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "blu",
@@ -116,6 +140,9 @@
     {
       "exerciseType": "multiple_choice_alt",
       "question": "Come si dice \"Rosa\" (el color)?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Rosa",
@@ -130,6 +157,9 @@
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Morado\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Viola",
@@ -144,6 +174,9 @@
     {
       "exerciseType": "fill_in_the_blank",
       "question": "L'erba è _____.",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "verde",
@@ -158,6 +191,9 @@
     {
       "exerciseType": "multiple_choice_alt",
       "question": "Come si dice \"Gris\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Grigio",
@@ -172,6 +208,9 @@
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Marrón\"?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Marrone",
@@ -186,6 +225,9 @@
     {
       "exerciseType": "translation",
       "question": "La manzana es roja",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "wordOptions": [
         "La",
@@ -207,6 +249,9 @@
     {
       "exerciseType": "fill_in_the_blank",
       "question": "Il sole è _____.",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "giallo",
@@ -221,6 +266,9 @@
     {
       "exerciseType": "multiple_choice_alt",
       "question": "Quale colore NON è primario?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Verde",
@@ -235,6 +283,9 @@
     {
       "exerciseType": "translation",
       "question": "El mar es azul",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "wordOptions": [
         "Il",
@@ -256,6 +307,9 @@
     {
       "exerciseType": "fill_in_the_blank",
       "question": "La neve è _____.",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "bianca",
@@ -270,6 +324,9 @@
     {
       "exerciseType": "matching_pairs",
       "question": "Associa il colore con l'oggetto",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         {
@@ -313,6 +370,9 @@
     {
       "exerciseType": "multiple_choice",
       "question": "Di che colore è la banana?",
+      "question_es": "Como se dice \"Buen dia\"?",
+      "question_en": "How do you say \"Good morning\"?",
+      "question_pr": "Como se diz \"Bom dia\"?",
       "sound": "",
       "options": [
         "Gialla",
@@ -326,3 +386,4 @@
     }
   ]
 }
+
