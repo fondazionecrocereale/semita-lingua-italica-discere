@@ -19,31 +19,24 @@
       "soundCorrectAnswer": "assets/audio/correct.mp3",
       "videoAuthor": "Victoria 🇦🇷"
     },
-           {
+    {
             "exerciseType": "long_fill_in_the_blank",
-            "question": "Dante si smarrisce nella selva oscura.",
-            "question_es": "Dante se pierde en la selva oscura.",
-            "question_en": "Dante gets lost in the dark forest.",
-            "question_pr": "Dante se perde na selva escura.",
+            "question": "L'amor che _____ il sole e l'altre _____.",
+            "question_es": "El amor que mueve el sol y las otras estrellas.",
+            "question_en": "The love that moves the sun and the other stars.",
+            "question_pr": "O amor que move o sol e as outras estrelas.",
             "sound": "",
             "wordOptions": [
-                "Dante",
-                "si",
-                "smarrisce",
-                "nella",
-                "selva",
-                "oscura",
-                "cammina",
+                "move",
+                "stelle",
+                "luna",
+                "terra",
                 "corre",
                 "luce"
             ],
             "correctAnswer": [
-                "Dante",
-                "si",
-                "smarrisce",
-                "nella",
-                "selva",
-                "oscura"
+                "move",
+                "stelle"
             ],
             "soundWrongAnswer": "assets/audio/wrong.mp3",
             "soundCorrectAnswer": "assets/audio/correct.mp3"
@@ -653,6 +646,7 @@
     }
   ]
 }
+
 
 
 
