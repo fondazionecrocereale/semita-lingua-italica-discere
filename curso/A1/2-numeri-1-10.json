@@ -7,7 +7,7 @@
       "question_es": "Como se dice \"Buen dia\"?",
       "question_en": "How do you say \"Good morning\"?",
       "question_pr": "Como se diz \"Bom dia\"?",
-      "sound": "",
+      "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Numeri/zero.mp3",
       "options": [
         "Zero",
         "Uno",
@@ -16,24 +16,7 @@
       ],
       "correctAnswer": "Zero",
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "https://github.com/fondazionecrocereale/semita-lingua-italica-discere/blob/main/audios/2-numeri-1-10/zero.mp3"
-    },
-    {
-      "exerciseType": "fill_in_the_blank",
-      "question": "0 = _____",
-      "question_es": "Como se dice \"Buen dia\"?",
-      "question_en": "How do you say \"Good morning\"?",
-      "question_pr": "Como se diz \"Bom dia\"?",
-      "sound": "",
-      "options": [
-        "zero",
-        "uno",
-        "due",
-        "tre"
-      ],
-      "correctAnswer": "zero",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Numeri/zero.mp3"
     },
     {
       "exerciseType": "multiple_choice",
@@ -41,7 +24,7 @@
       "question_es": "Como se dice \"Buen dia\"?",
       "question_en": "How do you say \"Good morning\"?",
       "question_pr": "Como se diz \"Bom dia\"?",
-      "sound": "",
+      "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Numeri/uno.mp3",
       "options": [
         "Uno",
         "Due",
@@ -50,15 +33,15 @@
       ],
       "correctAnswer": "Uno",
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Numeri/uno.mp3"
     },
     {
       "exerciseType": "translation",
       "question": "Uno",
-      "question_es": "Como se dice \"Buen dia\"?",
-      "question_en": "How do you say \"Good morning\"?",
-      "question_pr": "Como se diz \"Bom dia\"?",
-      "sound": "",
+      "question_es": "",
+      "question_en": "",
+      "question_pr": "",
+      "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Numeri/uno.mp3",
       "wordOptions": [
         "Uno",
         "due",
@@ -71,24 +54,7 @@
         "Uno"
       ],
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "fill_in_the_blank",
-      "question": "1 = _____",
-      "question_es": "Como se dice \"Buen dia\"?",
-      "question_en": "How do you say \"Good morning\"?",
-      "question_pr": "Como se diz \"Bom dia\"?",
-      "sound": "",
-      "options": [
-        "uno",
-        "due",
-        "tre",
-        "zero"
-      ],
-      "correctAnswer": "uno",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Numeri/uno.mp3"
     },
     {
       "exerciseType": "multiple_choice_alt",
@@ -96,7 +62,7 @@
       "question_es": "Como se dice \"Buen dia\"?",
       "question_en": "How do you say \"Good morning\"?",
       "question_pr": "Como se diz \"Bom dia\"?",
-      "sound": "",
+      "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Numeri/duearance.mp3",
       "options": [
         "Una mela",
         "Tre mele",
@@ -105,7 +71,7 @@
       ],
       "correctAnswer": "Due arance",
       "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
+      "soundCorrectAnswer": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Numeri/duearance.mp3"
     },
     {
       "exerciseType": "multiple_choice",
@@ -113,7 +79,7 @@
       "question_es": "Como se dice \"Buen dia\"?",
       "question_en": "How do you say \"Good morning\"?",
       "question_pr": "Como se diz \"Bom dia\"?",
-      "sound": "",
+      "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/A1/Numeri/due.mp3",
       "options": [
         "Due",
         "Tre",
@@ -121,23 +87,6 @@
         "Quattro"
       ],
       "correctAnswer": "Due",
-      "soundWrongAnswer": "wrong.mp3",
-      "soundCorrectAnswer": "correct.mp3"
-    },
-    {
-      "exerciseType": "fill_in_the_blank",
-      "question": "2 = _____",
-      "question_es": "Como se dice \"Buen dia\"?",
-      "question_en": "How do you say \"Good morning\"?",
-      "question_pr": "Como se diz \"Bom dia\"?",
-      "sound": "",
-      "options": [
-        "due",
-        "tre",
-        "uno",
-        "quattro"
-      ],
-      "correctAnswer": "due",
       "soundWrongAnswer": "wrong.mp3",
       "soundCorrectAnswer": "correct.mp3"
     },
@@ -890,4 +839,5 @@
   ]
 
 }
+
 
