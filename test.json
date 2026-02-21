@@ -1,0 +1,393 @@
+{
+    "title": "Test di ingresso e progresso",
+    "content": [
+        {
+            "exerciseType": "multiple_choice",
+            "question": "Lei come si chiama?",
+            "options": [
+                "Piacere.",
+                "Claudia Hernandez.",
+                "Il signor Mazzola."
+            ],
+            "correctAnswer": "Claudia Hernandez.",
+            "soundCorrectAnswer": "",
+            "soundWrongAnswer": ""
+        },
+        {
+            "exerciseType": "multiple_choice",
+            "question": "Di dove sei?",
+            "options": [
+                "Sono portoghese, di Coimbra.",
+                "Roma.",
+                "Italia."
+            ],
+            "correctAnswer": "Sono portoghese, di Coimbra.",
+            "soundCorrectAnswer": "",
+            "soundWrongAnswer": ""
+        },
+        {
+            "exerciseType": "matching_pairs",
+            "question": "Collega le frasi.",
+            "options": [
+                {
+                    "left": "Buongiorno signora,",
+                    "right": "come sta?"
+                },
+                {
+                    "left": "Oggi sto",
+                    "right": "proprio male."
+                },
+                {
+                    "left": "Ciao Fiorenza,",
+                    "right": "come stai?"
+                }
+            ],
+            "correctPairs": [
+                {
+                    "left": "Buongiorno signora,",
+                    "right": "come sta?"
+                },
+                {
+                    "left": "Oggi sto",
+                    "right": "proprio male."
+                },
+                {
+                    "left": "Ciao Fiorenza,",
+                    "right": "come stai?"
+                }
+            ],
+            "soundCorrectAnswer": "",
+            "soundWrongAnswer": ""
+        },
+        {
+            "exerciseType": "matching_pairs",
+            "question": "Collega le frasi.",
+            "options": [
+                {
+                    "left": "Lavoro in",
+                    "right": "una scuola."
+                },
+                {
+                    "left": "Io sono",
+                    "right": "impiegato."
+                },
+                {
+                    "left": "Fai",
+                    "right": "l’insegnante?"
+                }
+            ],
+            "correctPairs": [
+                {
+                    "left": "Lavoro in",
+                    "right": "una scuola."
+                },
+                {
+                    "left": "Io sono",
+                    "right": "impiegato."
+                },
+                {
+                    "left": "Fai",
+                    "right": "l’insegnante?"
+                }
+            ],
+            "soundCorrectAnswer": "",
+            "soundWrongAnswer": ""
+        },
+        {
+            "exerciseType": "multiple_choice",
+            "question": "Completa: Voi ______ di Milano?",
+            "options": [
+                "siete",
+                "siamo",
+                "sono"
+            ],
+            "correctAnswer": "siete",
+            "soundCorrectAnswer": "",
+            "soundWrongAnswer": ""
+        },
+        {
+            "exerciseType": "multiple_choice_alt",
+            "question": "Completa: Tu quanti anni ______ ?",
+            "options": [
+                "hai",
+                "ho",
+                "abbiamo"
+            ],
+            "correctAnswer": "hai",
+            "soundCorrectAnswer": "",
+            "soundWrongAnswer": ""
+        },
+        {
+            "exerciseType": "multiple_choice",
+            "question": "Completa: Arianna ______ in un ufficio.",
+            "options": [
+                "lavora",
+                "lavoro",
+                "lavori"
+            ],
+            "correctAnswer": "lavora",
+            "soundCorrectAnswer": "",
+            "soundWrongAnswer": ""
+        },
+        {
+            "exerciseType": "multiple_choice",
+            "question": "Completa: Lei ______ la segretaria?",
+            "options": [
+                "faccio",
+                "fai",
+                "fa"
+            ],
+            "correctAnswer": "fa",
+            "soundCorrectAnswer": "",
+            "soundWrongAnswer": ""
+        },
+        {
+            "exerciseType": "long_fill_in_the_blank",
+            "question": "Vorrei _____ aperitivo, _____ toast e poi _____ aranciata",
+            "question_es": "El amor que mueve el sol y las otras estrellas.",
+            "question_en": "The love that moves the sun and the other stars.",
+            "question_pr": "O amor que move o sol e as outras estrelas.",
+            "sound": "",
+            "wordOptions": [
+                "uno",
+                "un",
+                "un'",
+                "una",
+                "un"
+            ],
+            "correctAnswer": [
+                "un",
+                "un",
+                "un'"
+            ],
+            "soundWrongAnswer": "assets/audio/wrong.mp3",
+            "soundCorrectAnswer": "assets/audio/correct.mp3"
+        },
+        {
+            "exerciseType": "long_fill_in_the_blank",
+            "question": "Preferisci _____ tortellini o _____ lasagne? _____ spaghetti o _____ tagliatelle?",
+            "question_es": "El amor que mueve el sol y las otras estrellas.",
+            "question_en": "The love that moves the sun and the other stars.",
+            "question_pr": "O amor que move o sol e as outras estrelas.",
+            "sound": "",
+            "wordOptions": [
+                "gli",
+                "i",
+                "le",
+                "Gli",
+                "I",
+                "Le",
+                "gli",
+                "i",
+                "le"
+            ],
+            "correctAnswer": [
+                "i",
+                "le",
+                "Gli",
+                "le"
+            ],
+            "soundWrongAnswer": "assets/audio/wrong.mp3",
+            "soundCorrectAnswer": "assets/audio/correct.mp3"
+        },
+        {
+            "exerciseType": "long_fill_in_the_blank",
+            "question": "Voi cosa _____ nel tempo libero?",
+            "question_es": "Ustedes que cosa hacen en el tiempo libre?",
+            "question_en": "What do you do in your free time?",
+            "question_pr": "O que vocês fazem no tempo livre?",
+            "sound": "",
+            "wordOptions": [
+                "fare",
+                "fate",
+                "fanno"
+            ],
+            "correctAnswer": [
+                "fate"
+            ],
+            "soundWrongAnswer": "assets/audio/wrong.mp3",
+            "soundCorrectAnswer": "assets/audio/correct.mp3"
+        },
+        {
+            "exerciseType": "long_fill_in_the_blank",
+            "question": "Di solito _____ sport: _____ spesso in palestra. E Tu?",
+            "question_es": "Ustedes que cosa hacen en el tiempo libre?",
+            "question_en": "What do you do in your free time?",
+            "question_pr": "O que vocês fazem no tempo livre?",
+            "sound": "",
+            "wordOptions": [
+                "facciamo",
+                "fanno",
+                "fate",
+                "andate",
+                "andiamo",
+                "vanno"
+            ],
+            "correctAnswer": [
+                "facciamo",
+                "andiamo"
+            ],
+            "soundWrongAnswer": "assets/audio/wrong.mp3",
+            "soundCorrectAnswer": "assets/audio/correct.mp3"
+        },
+        {
+            "exerciseType": "long_fill_in_the_blank",
+            "question": "Io invece _____ quasi sempre a casa",
+            "question_es": "Ustedes que cosa hacen en el tiempo libre?",
+            "question_en": "What do you do in your free time?",
+            "question_pr": "O que vocês fazem no tempo livre?",
+            "sound": "",
+            "wordOptions": [
+                "fai",
+                "sta",
+                "sto"
+            ],
+            "correctAnswer": [
+                "sto"
+            ],
+            "soundWrongAnswer": "assets/audio/wrong.mp3",
+            "soundCorrectAnswer": "assets/audio/correct.mp3"
+        },
+        {
+            "exerciseType": "long_fill_in_the_blank",
+            "question": "A me ______ moltissimo andare a ballare: ______ soprattutto i balli sudamericani.",
+            "question_es": "A mí me gusta mucho ir a bailar:",
+            "question_en": "I really like going dancing:",
+            "question_pr": "Eu gosto muito de ir dançar:",
+            "sound": "",
+            "wordOptions": [
+                "piacciono",
+                "piace",
+                "amo",
+                "mi piace",
+                "mi piacciono",
+                "ama"
+            ],
+            "correctAnswer": [
+                "piace",
+                "mi piacciono"
+            ],
+            "soundWrongAnswer": "assets/audio/wrong.mp3",
+            "soundCorrectAnswer": "assets/audio/correct.mp3"
+        },
+        {
+            "exerciseType": "long_fill_in_the_blank",
+            "question": "Davvero? A me invece, ______ per niente la discoteca e ______ uscire la sera.",
+            "question_es": "A mí me gusta mucho ir a bailar:",
+            "question_en": "I really like going dancing:",
+            "question_pr": "Eu gosto muito de ir dançar:",
+            "sound": "",
+            "wordOptions": [
+                "piacciono",
+                "piace",
+                "amo",
+                "non piace",
+                "mi piacciono",
+                "non amo",
+                "ama",
+                "odio"
+            ],
+            "correctAnswer": [
+                "non piace",
+                "odio"
+            ],
+            "soundWrongAnswer": "assets/audio/wrong.mp3",
+            "soundCorrectAnswer": "assets/audio/correct.mp3"
+        },
+        {
+            "exerciseType": "long_fill_in_the_blank",
+            "question": "____ febbraio affitto appartamento situato ______ zona centrale, ___ ogni comfort e vicino ____ mare.",
+            "question_es": "A mí me gusta mucho ir a bailar:",
+            "question_en": "I really like going dancing:",
+            "question_pr": "Eu gosto muito de ir dançar:",
+            "sound": "",
+            "wordOptions": [
+                "Nel",
+                "in",
+                "Di",
+                "in",
+                "di",
+                "nel",
+                "su",
+                "con",
+                "di",
+                "da",
+                "al"
+            ],
+            "correctAnswer": [
+                "in",
+                "in",
+                "con",
+                "al"
+            ],
+            "soundWrongAnswer": "assets/audio/wrong.mp3",
+            "soundCorrectAnswer": "assets/audio/correct.mp3"
+        },
+        {
+            "exerciseType": "matching_pairs",
+            "question": "Collega le frasi.",
+            "options": [
+                {
+                    "left": "Scusi, nel prezzo",
+                    "right": "è compresa la colazione?."
+                },
+                {
+                    "left": "Avete",
+                    "right": "viene la camera?."
+                },
+                {
+                    "left": "Quanto",
+                    "right": "una camera libera per sabato?"
+                }
+            ],
+            "correctPairs": [
+                {
+                    "left": "Scusi, nel prezzo",
+                    "right": "viene la camera?."
+                },
+                {
+                    "left": "Avete",
+                    "right": "una camera libera per sabato?."
+                },
+                {
+                    "left": "Quanto",
+                    "right": "è compresa la colazione?."
+                }
+            ],
+            "soundCorrectAnswer": "",
+            "soundWrongAnswer": ""
+        },
+        {
+            "exerciseType": "multiple_choice_alt",
+            "question": "Senta, avrei un problema...",
+            "question_es": "Senta, avrei un problema...",
+            "question_en": "Senta, avrei un problema...",
+            "question_pr": "Senta, avrei un problema...",
+            "sound": "",
+            "options": [
+                "Buonasera.",
+                "Dica, signora.",
+                "Non c’è male."
+            ],
+            "correctAnswer": "Dica, signora.",
+            "soundWrongAnswer": "wrong.mp3",
+            "soundCorrectAnswer": ""
+        },
+        {
+            "exerciseType": "multiple_choice_alt",
+            "question": "È possibile avere un altro cuscino?",
+            "question_es": "È possibile avere un altro cuscino?",
+            "question_en": "È possibile avere un altro cuscino?",
+            "question_pr": "È possibile avere un altro cuscino?",
+            "sound": "",
+            "options": [
+                "Per cortesia.",
+                "Certo, signora.",
+                "Grazie."
+            ],
+            "correctAnswer": "Certo, signora.",
+            "soundWrongAnswer": "wrong.mp3",
+            "soundCorrectAnswer": ""
+        }
+    ]
+}
