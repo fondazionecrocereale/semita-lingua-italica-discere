@@ -39,13 +39,13 @@
                     "left": "Oggi sto",
                     "right": "proprio male.",
                     "leftSound": "https://firebasestorage.googleapis.com/v0/b/dantexxi-3c7b5.firebasestorage.app/o/test-course%2Faudios%2Foggisto.mp3?alt=media&token=2777ff23-5063-46ca-af56-0aa294eb312a",
-                    "rightSound": ""
+                    "rightSound": "https://firebasestorage.googleapis.com/v0/b/dantexxi-3c7b5.firebasestorage.app/o/test-course%2Faudios%2Fpropriomale.mp3?alt=media&token=6b4afe65-11de-40ba-bb69-1ac7e5ae8e0a"
                 },
                 {
                     "left": "Ciao Fiorenza,",
                     "right": "come stai?",
-                    "leftSound": "",
-                    "rightSound": ""
+                    "leftSound": "https://firebasestorage.googleapis.com/v0/b/dantexxi-3c7b5.firebasestorage.app/o/test-course%2Faudios%2Fciaofiorenza.mp3?alt=media&token=b72ae2b6-b81e-4f61-9a52-e0d0046de69c",
+                    "rightSound": "https://firebasestorage.googleapis.com/v0/b/dantexxi-3c7b5.firebasestorage.app/o/test-course%2Faudios%2Fcomestai.mp3?alt=media&token=f9b975e2-4300-4915-a013-605a01c04dc3"
                 }
             ],
             "correctPairs": [
