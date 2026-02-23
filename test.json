@@ -6,7 +6,7 @@
             "question": "Lei come si chiama?",
             "options": [
                 "Piacere.",
-                "Claudia Hernandez",
+                "Claudia Hernandez.",
                 "Il signor Mazzola."
             ],
             "correctAnswer": "Claudia Hernandez.",
@@ -31,15 +31,21 @@
             "options": [
                 {
                     "left": "Buongiorno signora,",
-                    "right": "come sta?"
+                    "right": "come sta?",
+                    "leftSound": "",
+                    "rightSound": ""
                 },
                 {
                     "left": "Oggi sto",
-                    "right": "proprio male."
+                    "right": "proprio male.",
+                    "leftSound": "",
+                    "rightSound": ""
                 },
                 {
                     "left": "Ciao Fiorenza,",
-                    "right": "come stai?"
+                    "right": "come stai?",
+                    "leftSound": "",
+                    "rightSound": ""
                 }
             ],
             "correctPairs": [
@@ -65,15 +71,21 @@
             "options": [
                 {
                     "left": "Lavoro in",
-                    "right": "una scuola."
+                    "right": "una scuola.",
+                    "leftSound": "",
+                    "rightSound": ""
                 },
                 {
                     "left": "Io sono",
-                    "right": "impiegato."
+                    "right": "impiegato.",
+                    "leftSound": "",
+                    "rightSound": ""
                 },
                 {
                     "left": "Fai",
-                    "right": "l’insegnante?"
+                    "right": "l’insegnante?",
+                    "leftSound": "",
+                    "rightSound": ""
                 }
             ],
             "correctPairs": [
@@ -329,15 +341,21 @@
             "options": [
                 {
                     "left": "Scusi, nel prezzo",
-                    "right": "è compresa la colazione?."
+                    "right": "è compresa la colazione?.",
+                    "leftSound": "",
+                    "rightSound": ""
                 },
                 {
                     "left": "Avete",
-                    "right": "viene la camera?."
+                    "right": "viene la camera?.",
+                    "leftSound": "",
+                    "rightSound": ""
                 },
                 {
                     "left": "Quanto",
-                    "right": "una camera libera per sabato?"
+                    "right": "una camera libera per sabato?",
+                    "leftSound": "",
+                    "rightSound": ""
                 }
             ],
             "correctPairs": [
