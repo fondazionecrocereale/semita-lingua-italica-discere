@@ -32,8 +32,8 @@
                 {
                     "left": "Buongiorno signora,",
                     "right": "come sta?",
-                    "leftSound": "",
-                    "rightSound": ""
+                    "leftSound": "https://firebasestorage.googleapis.com/v0/b/dantexxi-3c7b5.firebasestorage.app/o/test-course%2Faudios%2Fbuongiornosignora.mp3?alt=media&token=5f6610cc-eb90-4d6f-89cd-a67d85da03a6",
+                    "rightSound": "https://firebasestorage.googleapis.com/v0/b/dantexxi-3c7b5.firebasestorage.app/o/test-course%2Faudios%2Fcomesta.mp3?alt=media&token=49cb55f4-f091-4ca7-93da-5d15e42eb7c6"
                 },
                 {
                     "left": "Oggi sto",
