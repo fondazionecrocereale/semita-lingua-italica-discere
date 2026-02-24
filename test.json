@@ -177,7 +177,7 @@
         },
         {
             "exerciseType": "long_fill_in_the_blank",
-            "question": "Preferisci _____ tortellini o _____ lasagne? _____ spaghetti o _____ tagliatelle?",
+            "question": "Preferisci _____ tortellini o _____ lasagne?. _____ spaghetti o _____ tagliatelle?",
             "question_es": "El amor que mueve el sol y las otras estrellas.",
             "question_en": "The love that moves the sun and the other stars.",
             "question_pr": "O amor que move o sol e as outras estrelas.",
