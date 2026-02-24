@@ -517,5 +517,39 @@
             "soundWrongAnswer": "assets/audio/wrong.mp3",
             "soundCorrectAnswer": "assets/audio/correct.mp3"
         },
+         {
+            "exerciseType": "long_fill_in_the_blank",
+            "question": "Carlo e Anna ___________ due belle giornate. Ieri __________ in un museo e poi ___________ in un ristorante tipico. Oggi __________ una mostra insieme e la sera Anna ___________ anche al cinema",
+            "question_es": "",
+            "question_en": "",
+            "question_pr": "",
+            "sound": "",
+            "wordOptions": [
+                "sono passati",
+                "hanno passato",
+                "ha passato",
+                "sono stati",
+                "è stato",
+                "sono state",
+                "ho pranzato",
+                "avete pranzato",
+                "hanno pranzato", 
+                "hanno visitato",
+                "ha visitato",
+                "abbiamo visitato",
+                 "sono andati",
+                "è andata",
+                "è andato"
+            ],
+            "correctAnswer": [
+ "sono passati",
+  "sono stati",
+"hanno pranzato",
+"abbiamo visitato",
+"è andata"
+            ],
+            "soundWrongAnswer": "assets/audio/wrong.mp3",
+            "soundCorrectAnswer": "assets/audio/correct.mp3"
+        }
     ]
 }
