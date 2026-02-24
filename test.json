@@ -406,6 +406,116 @@
             "correctAnswer": "Certo, signora.",
             "soundWrongAnswer": "wrong.mp3",
             "soundCorrectAnswer": ""
-        }
+        },
+         {
+            "exerciseType": "long_fill_in_the_blank",
+            "question": "La signora Vanzetta conosce bene Bologna e ____ va spesso, perché ha _____ clienti lì.",
+            "question_es": "",
+            "question_en": "",
+            "question_pr": "",
+            "sound": "",
+            "wordOptions": [
+                "ci",
+                "Bologna",
+                "in città",
+                "i",
+                "pochi",
+                "dei"
+            ],
+            "correctAnswer": [
+                "ci",
+                "dei"
+            ],
+            "soundWrongAnswer": "assets/audio/wrong.mp3",
+            "soundCorrectAnswer": "assets/audio/correct.mp3"
+        },
+        {
+            "exerciseType": "long_fill_in_the_blank",
+            "question": "In questa città ______ tante cose da vedere: delle ______ chiese, _____ musei interessanti e spesso delle mostre.",
+            "question_es": "",
+            "question_en": "",
+            "question_pr": "",
+            "sound": "",
+            "wordOptions": [
+                "c’è",
+                "ci sono",
+                "può vedere",
+                "bello",
+                "belle",
+                "bella",
+                "dei",
+                "i",
+                "degli"
+            ],
+            "correctAnswer": [
+                "ci sono",
+                "belle",
+                "dei"
+            ],
+            "soundWrongAnswer": "assets/audio/wrong.mp3",
+            "soundCorrectAnswer": "assets/audio/correct.mp3"
+        },
+          {
+            "exerciseType": "long_fill_in_the_blank",
+            "question": "Sì, dunque Lei adesso _____ dall’albergo, poi gira subito ________ e lì, _______ il supermercato e la banca, c’è la libreria Artigianelli.",
+            "question_es": "",
+            "question_en": "",
+            "question_pr": "",
+            "sound": "",
+            "wordOptions": [
+                "gira",
+                "va",
+                "esce",
+                "a destra",
+                "avanti",
+                "dritto",
+                "davanti",
+                "fra",
+                "all’angolo"
+            ],
+            "correctAnswer": [
+                "esce",
+                "a destra",
+                "fra"
+            ],
+            "soundWrongAnswer": "assets/audio/wrong.mp3",
+            "soundCorrectAnswer": "assets/audio/correct.mp3"
+        },
+         {
+            "exerciseType": "long_fill_in_the_blank",
+            "question": "Scusi, sa _______ l’hotel Lux?",
+            "question_es": "",
+            "question_en": "",
+            "question_pr": "",
+            "sound": "",
+            "wordOptions": [
+                "se c’è",
+                "dov’è",
+                "c’è"
+            ],
+            "correctAnswer": [
+                "dov’è"
+            ],
+            "soundWrongAnswer": "assets/audio/wrong.mp3",
+            "soundCorrectAnswer": "assets/audio/correct.mp3"
+        },
+         {
+            "exerciseType": "long_fill_in_the_blank",
+            "question": "No, _______, non sono di qui.",
+            "question_es": "",
+            "question_en": "",
+            "question_pr": "",
+            "sound": "",
+            "wordOptions": [
+                "allora",
+                "si figuri",
+                "mi dispiace"
+            ],
+            "correctAnswer": [
+                "mi dispiace"
+            ],
+            "soundWrongAnswer": "assets/audio/wrong.mp3",
+            "soundCorrectAnswer": "assets/audio/correct.mp3"
+        },
     ]
 }
