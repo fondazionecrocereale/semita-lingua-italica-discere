@@ -4,7 +4,7 @@
     {
     "exerciseType": "audio_subtitles",
     "question": "¿De qué trata el audio?",
-    "sound": "https://example.com/audio/italian_lesson_1.mp3",
+    "sound": "https://firebasestorage.googleapis.com/v0/b/dantexxi-3c7b5.firebasestorage.app/o/audios%2Fciaoatutti.mp3?alt=media&token=b51d7723-0457-4465-9fbf-e4899ff3d969",
     "subtitles": [
         {
             "start": "00:00:00.000",
@@ -12,23 +12,23 @@
             "text": "Ciao"
         },
         {
-            "start": "00:00:01.200",
-            "end": "00:00:02.000",
+            "start": "00:00:01.201",
+            "end": "00:00:01.301",
             "text": "a"
         },
         {
-            "start": "00:00:02.000",
-            "end": "00:00:03.500",
+            "start": "00:00:01.401",
+            "end": "00:00:01.501",
             "text": "tutti,"
         },
         {
-            "start": "00:00:03.500",
-            "end": "00:00:04.200",
+            "start": "00:00:01.900",
+            "end": "00:00:02.200",
             "text": "come"
         },
         {
-            "start": "00:00:04.200",
-            "end": "00:00:05.500",
+            "start": "00:00:02.230",
+            "end": "00:00:02.560",
             "text": "va?"
         }
     ],
@@ -709,6 +709,7 @@
     }
   ]
 }
+
 
 
 
