@@ -2,6 +2,15 @@
   "title": "Saluti e Presentazioni",
   "content": [
     {
+    "exerciseType": "shadowing",
+    "question": "Escucha y repite la frase:",
+    "correctAnswer": "Il piacere è tutto mio",
+    "question_es": "El gusto es todo mío",
+    "sound": "https://example.com/audio_or_video.mp3",
+    "soundCorrectAnswer": "audio/success.mp3",
+    "soundWrongAnswer": "audio/error.mp3"
+},
+    {
       "exerciseType": "video_comprehension",
       "question": "Como se dice \"Buen dia\"?",
       "question_es": "Como se dice \"Buen dia\"?",
@@ -668,6 +677,7 @@
     }
   ]
 }
+
 
 
 
