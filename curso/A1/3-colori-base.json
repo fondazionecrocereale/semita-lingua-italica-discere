@@ -42,6 +42,14 @@
     "correctAnswer": "Un saludo inicial",
     "soundWrongAnswer": "wrong.mp3",
     "soundCorrectAnswer": "correct.mp3"
+}, {
+    "exerciseType": "shadowing",
+    "question": "Escucha y repite la frase:",
+    "correctAnswer": "Buongiorno, mi chiamo Dante",
+    "question_es": "El gusto es todo mío",
+    "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/grok-video-349945d1-cd69-41c5-9291-23cdcb72c982.mp4",
+    "soundCorrectAnswer": "audio/success.mp3",
+    "soundWrongAnswer": "audio/error.mp3"
 },
     {
       "exerciseType": "video_comprehension",
@@ -428,5 +436,6 @@
     }
   ]
 }
+
 
 
