@@ -6,7 +6,7 @@
     "question": "Escucha y repite la frase:",
     "correctAnswer": "Il piacere è tutto mio",
     "question_es": "El gusto es todo mío",
-    "sound": "https://example.com/audio_or_video.mp3",
+    "sound": "https://mbizqtjqwcukpstphaky.supabase.co/storage/v1/object/public/videos/grok-video-349945d1-cd69-41c5-9291-23cdcb72c982.mp4",
     "soundCorrectAnswer": "audio/success.mp3",
     "soundWrongAnswer": "audio/error.mp3"
 },
@@ -677,6 +677,7 @@
     }
   ]
 }
+
 
 
 
