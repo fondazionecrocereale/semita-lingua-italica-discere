@@ -21,11 +21,11 @@
     }, {
     "exerciseType": "shadowing",
     "question": "Escucha y repite la frase:",
-    "correctAnswer": "Buongiorno, mi chiamo Dante",
+    "correctAnswer": "Il piacere è tutto mio",
     "question_es": "El gusto es todo mío",
     "sound": "https://firebasestorage.googleapis.com/v0/b/dantexxi-3c7b5.firebasestorage.app/o/audios%2Filpiacereetuttomio.mp3?alt=media&token=fb9051ad-d772-4808-a71a-3dffc7091600",
-    "soundCorrectAnswer": "audio/success.mp3",
-    "soundWrongAnswer": "audio/error.mp3"
+    "soundCorrectAnswer":"assets/audio/correct.mp3",
+    "soundWrongAnswer": "assets/audio/wrong.mp3",
 },
     {
             "exerciseType": "long_fill_in_the_blank",
@@ -676,6 +676,7 @@
     }
   ]
 }
+
 
 
 
