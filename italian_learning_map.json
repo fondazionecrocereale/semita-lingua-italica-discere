@@ -1,7 +1,7 @@
 {
   "sections": [
     {
-      "title": "CORSO D'ITALIANO A1",
+      "title": "Via Latina I",
       "backgroundImage": "assets/images/DSCF2316_Dante_perdu.jpg",
       "baseColor": {
         "red": 255,
@@ -27,8 +27,8 @@
       "lessons": [
         {
           "id": 1,
-          "title": "Saluti e Presentazioni",
-          "uid": "italiano_a1_lezione_1",
+          "title": "IMPERIVM ROMANVM",
+          "uid": "lvdvs_lesson_1",
           "livello": "A1",
           "isUnlocked": true,
           "isCompleted": false,
@@ -39,7 +39,7 @@
             "x": 0.2,
             "y": 0.1
           },
-          "description": "Impara a salutare e presentarti in italiano",
+          "description": "Salve, Mihi Nomen.. Quid Agis?",
           "exerciseTypes": [
             "multiple_choice",
             "translation",
