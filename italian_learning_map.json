@@ -28,10 +28,10 @@
         {
           "id": 1,
           "title": "IMPERIVM ROMANVM",
-          "uid": "lvdvs_lesson_1",
+          "uid": "italiano_a1_lezione_1",
           "livello": "A1",
           "isUnlocked": true,
-          "isCompleted": true,
+          "isCompleted": false,
           "nextLessonIds": [
             2
           ],
