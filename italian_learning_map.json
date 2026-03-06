@@ -31,7 +31,7 @@
           "uid": "lvdvs_lesson_1",
           "livello": "A1",
           "isUnlocked": true,
-          "isCompleted": false,
+          "isCompleted": true,
           "nextLessonIds": [
             2
           ],
