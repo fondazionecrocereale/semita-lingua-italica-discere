@@ -18,37 +18,7 @@
       "soundWrongAnswer": "assets/audio/wrong.mp3",
       "soundCorrectAnswer": "assets/audio/correct.mp3",
       "videoAuthor": "Victoria 🇦🇷"
-    }, {
-    "exerciseType": "shadowing",
-    "question": "Escucha y repite la frase:",
-    "correctAnswer": "Il piacere è tutto mio",
-    "question_es": "El gusto es todo mío",
-    "sound": "https://firebasestorage.googleapis.com/v0/b/dantexxi-3c7b5.firebasestorage.app/o/audios%2Filpiacereetuttomio.mp3?alt=media&token=fb9051ad-d772-4808-a71a-3dffc7091600",
-    "soundCorrectAnswer":"assets/audio/correct.mp3",
-    "soundWrongAnswer": "assets/audio/wrong.mp3"
-},
-    {
-            "exerciseType": "long_fill_in_the_blank",
-            "question": "L'amor che _____ il sole e l'altre _____.",
-            "question_es": "El amor que mueve el sol y las otras estrellas.",
-            "question_en": "The love that moves the sun and the other stars.",
-            "question_pr": "O amor que move o sol e as outras estrelas.",
-            "sound": "",
-            "wordOptions": [
-                "move",
-                "stelle",
-                "luna",
-                "terra",
-                "corre",
-                "luce"
-            ],
-            "correctAnswer": [
-                "move",
-                "stelle"
-            ],
-            "soundWrongAnswer": "assets/audio/wrong.mp3",
-            "soundCorrectAnswer": "assets/audio/correct.mp3"
-        },
+    },
     {
       "exerciseType": "multiple_choice",
       "question": "Come si dice \"Buenas Tardes\"?",
@@ -68,22 +38,22 @@
     },
     {
             "exerciseType": "long_fill_in_the_blank",
-            "question": "Salve _____ Tutto _____.",
-            "question_es": "Hola Giuseppe, Como estas?",
+            "question": "Salve _____ Come _____.",
+            "question_es": "Hola Señor, Como esta?",
             "question_en": "The love that moves the sun and the other stars.",
             "question_pr": "O amor que move o sol e as outras estrelas.",
-            "sound": "",
+            "sound": "https://firebasestorage.googleapis.com/v0/b/dantexxi-3c7b5.firebasestorage.app/o/audios%2Fsalvesignore.mp3?alt=media&token=b44e7c61-f439-48da-bf42-375f3b2bc835",
             "wordOptions": [
                 "Tutto",
-                "Giuseppe",
+                "Signore",
                 "Cose",
                 "Come",
                 "Apposto",
-                "Bene?"
+                "sta?"
             ],
             "correctAnswer": [
-                "Giuseppe",
-                "Bene?"
+                "Signore",
+                "sta?"
             ],
             "soundWrongAnswer": "assets/audio/wrong.mp3",
             "soundCorrectAnswer": "assets/audio/correct.mp3"
@@ -585,6 +555,7 @@
       "soundWrongAnswer": "wrong.mp3",
       "soundCorrectAnswer": "correct.mp3"
     },
+    
     {
       "exerciseType": "multiple_choice_alt",
       "question": "Come rispondi a \"Piacere di conoscerti\"?",
@@ -628,6 +599,15 @@
       "soundWrongAnswer": "wrong.mp3",
       "soundCorrectAnswer": "correct.mp3"
     },
+     {
+    "exerciseType": "shadowing",
+    "question": "Escucha y repite la frase:",
+    "correctAnswer": "Il piacere è tutto mio",
+    "question_es": "El gusto es todo mío",
+    "sound": "https://firebasestorage.googleapis.com/v0/b/dantexxi-3c7b5.firebasestorage.app/o/audios%2Filpiacereetuttomio.mp3?alt=media&token=fb9051ad-d772-4808-a71a-3dffc7091600",
+    "soundCorrectAnswer":"assets/audio/correct.mp3",
+    "soundWrongAnswer": "assets/audio/wrong.mp3"
+},
     {
       "exerciseType": "matching_pairs",
       "question": "Associa la domanda con la risposta corretta",
@@ -676,6 +656,7 @@
     }
   ]
 }
+
 
 
 
